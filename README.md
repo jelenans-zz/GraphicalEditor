@@ -90,3 +90,6 @@ the selected node (eg. Right click on the project adds diagram in it)
 •	Positioning of pasted elements in the visible region of the desktop
 
 
+
+![alt-link](https://raw.githubusercontent.com/jelenans/GraphicalEditor/master/New%20Picture%20(6).bmp)
+
