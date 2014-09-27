@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions
+END
+NewProjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/NewProjectAction.java
+END
+SaveWorkspaceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/SaveWorkspaceAction.java
+END
+CloseAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/CloseAction.java
+END
+SaveDiagramAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/SaveDiagramAction.java
+END
+CopyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/CopyAction.java
+END
+NewDiagramAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/NewDiagramAction.java
+END
+PropertiesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/PropertiesAction.java
+END
+PasteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/PasteAction.java
+END
+ProjectConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/ProjectConverter.java
+END
+OpenProjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/OpenProjectAction.java
+END
+AboutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/AboutAction.java
+END
+OpenWorkspaceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/OpenWorkspaceAction.java
+END
+CloseProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/CloseProject.java
+END
+OpenDiagramAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/OpenDiagramAction.java
+END
+CloseAllAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/CloseAllAction.java
+END
+SelectAllAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/SelectAllAction.java
+END
+SaveAllAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/SaveAllAction.java
+END
+RemoveAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/RemoveAction.java
+END
+FindElementAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/FindElementAction.java
+END
+CutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/CutAction.java
+END
+HelpAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/HelpAction.java
+END
+ModelConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/ModelConverter.java
+END
+RenameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/RenameAction.java
+END
+ExitAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/ExitAction.java
+END
+CloseWorkspaceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/CloseWorkspaceAction.java
+END
+SaveProjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/SaveProjectAction.java
+END
+OpenAnExistingDiagram.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/menu/actions/OpenAnExistingDiagram.java
+END

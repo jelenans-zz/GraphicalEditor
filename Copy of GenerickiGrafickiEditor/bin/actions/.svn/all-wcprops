@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions
+END
+HandMoveAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/HandMoveAction.class
+END
+LinkAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/LinkAction.java
+END
+GerundAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/GerundAction.java
+END
+ZoomAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/ZoomAction.java
+END
+DeleteElementAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/DeleteElementAction.java
+END
+RectangleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/RectangleAction.java
+END
+ConnectorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/ConnectorAction.java
+END
+ZoomOut.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/ZoomOut.java
+END
+UndoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/UndoAction.java
+END
+ZoomIn.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/ZoomIn.java
+END
+HandMoveAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/HandMoveAction.java
+END
+BestFitZoomAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/BestFitZoomAction.java
+END
+SelectElementAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/SelectElementAction.java
+END
+ISAhierarchyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/ISAhierarchyAction.java
+END
+RedoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/RedoAction.java
+END
+AttributeAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/AttributeAction.java
+END
+AlignElementsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/AlignElementsAction.java
+END
+WeakEntityAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/actions/WeakEntityAction.java
+END

@@ -1,0 +1,1861 @@
+<gge.model.GGEModel>
+  <changed>false</changed>
+  <obs>
+    <gge.view.GGEView serialization="custom">
+      <java.awt.Component>
+        <default>
+          <autoFocusTransferOnDisposal>true</autoFocusTransferOnDisposal>
+          <boundsOp>3</boundsOp>
+          <componentSerializedDataVersion>4</componentSerializedDataVersion>
+          <enabled>true</enabled>
+          <eventMask>4152</eventMask>
+          <focusTraversalKeysEnabled>true</focusTraversalKeysEnabled>
+          <focusable>true</focusable>
+          <height>900</height>
+          <ignoreRepaint>false</ignoreRepaint>
+          <isFocusTraversableOverridden>2</isFocusTraversableOverridden>
+          <isPacked>false</isPacked>
+          <maxSizeSet>false</maxSizeSet>
+          <minSizeSet>false</minSizeSet>
+          <nameExplicitlySet>false</nameExplicitlySet>
+          <newEventsOnly>true</newEventsOnly>
+          <prefSizeSet>true</prefSizeSet>
+          <valid>true</valid>
+          <visible>false</visible>
+          <width>900</width>
+          <x>2</x>
+          <y>25</y>
+          <background>
+            <red>255</red>
+            <green>255</green>
+            <blue>255</blue>
+            <alpha>255</alpha>
+          </background>
+          <cursor>
+            <type>0</type>
+            <name>Default Cursor</name>
+          </cursor>
+          <font class="javax.swing.plaf.FontUIResource">
+            <attributes>
+              <entry>
+                <awt-text-attribute>width</awt-text-attribute>
+                <null/>
+              </entry>
+              <entry>
+                <awt-text-attribute>superscript</awt-text-attribute>
+                <null/>
+              </entry>
+              <entry>
+                <awt-text-attribute>transform</awt-text-attribute>
+                <null/>
+              </entry>
+              <entry>
+                <awt-text-attribute>size</awt-text-attribute>
+                <null/>
+              </entry>
+              <entry>
+                <awt-text-attribute>family</awt-text-attribute>
+                <string>Dialog</string>
+              </entry>
+              <entry>
+                <awt-text-attribute>weight</awt-text-attribute>
+                <null/>
+              </entry>
+              <entry>
+                <awt-text-attribute>posture</awt-text-attribute>
+                <null/>
+              </entry>
+              <entry>
+                <awt-text-attribute>tracking</awt-text-attribute>
+                <null/>
+              </entry>
+            </attributes>
+          </font>
+          <foreground class="sun.swing.PrintColorUIResource" resolves-to="javax.swing.plaf.ColorUIResource">
+            <value>-13421773</value>
+            <falpha>0.0</falpha>
+          </foreground>
+          <locale>en_US</locale>
+          <peerFont class="javax.swing.plaf.FontUIResource" reference="../font"/>
+          <prefSize>
+            <width>900</width>
+            <height>900</height>
+          </prefSize>
+        </default>
+        <null/>
+        <java.awt.ComponentOrientation>
+          <orientation>7</orientation>
+        </java.awt.ComponentOrientation>
+        <null/>
+        <null/>
+      </java.awt.Component>
+      <java.awt.Container>
+        <default>
+          <ncomponents>0</ncomponents>
+          <component/>
+          <layoutMgr class="java.awt.FlowLayout" serialization="custom">
+            <java.awt.FlowLayout>
+              <default>
+                <align>1</align>
+                <alignOnBaseline>false</alignOnBaseline>
+                <hgap>5</hgap>
+                <newAlign>1</newAlign>
+                <serialVersionOnStream>1</serialVersionOnStream>
+                <vgap>5</vgap>
+              </default>
+            </java.awt.FlowLayout>
+          </layoutMgr>
+          <focusCycleRoot>false</focusCycleRoot>
+          <containerSerializedDataVersion>1</containerSerializedDataVersion>
+          <focusTraversalPolicyProvider>false</focusTraversalPolicyProvider>
+        </default>
+        <null/>
+        <null/>
+      </java.awt.Container>
+      <javax.swing.JComponent>
+        <default>
+          <alignmentX>0.0</alignmentX>
+          <alignmentY>0.0</alignmentY>
+          <autoscrolls>true</autoscrolls>
+          <flags>33570825</flags>
+          <isAlignmentXSet>false</isAlignmentXSet>
+          <isAlignmentYSet>false</isAlignmentYSet>
+          <verifyInputWhenFocusTarget>true</verifyInputWhenFocusTarget>
+          <listenerList serialization="custom">
+            <javax.swing.event.EventListenerList>
+              <default/>
+              <null/>
+            </javax.swing.event.EventListenerList>
+          </listenerList>
+        </default>
+        <int>0</int>
+      </javax.swing.JComponent>
+      <javax.swing.JPanel>
+        <default/>
+      </javax.swing.JPanel>
+      <gge.view.GGEView>
+        <default>
+          <showGrid>true</showGrid>
+          <commandManager>
+            <currentCommandIndex>2</currentCommandIndex>
+            <commands>
+              <gge.command.AddElementCommand>
+                <element class="gge.model.Gerund">
+                  <name>gerund_1</name>
+                  <size class="java.awt.Dimension">
+                    <width>100</width>
+                    <height>60</height>
+                  </size>
+                  <position class="java.awt.geom.Point2D$Double">
+                    <x>479.0</x>
+                    <y>211.0</y>
+                  </position>
+                  <type>gerund</type>
+                  <angle>0.0</angle>
+                  <visibility>false</visibility>
+                  <color reference="../../../../../../../java.awt.Component/default/background"/>
+                  <borderColor>
+                    <red>0</red>
+                    <green>0</green>
+                    <blue>0</blue>
+                    <alpha>255</alpha>
+                  </borderColor>
+                  <lineStyle>
+                    <width>1.0</width>
+                    <join>1</join>
+                    <cap>1</cap>
+                    <miterlimit>5.0</miterlimit>
+                    <dash__phase>0.0</dash__phase>
+                  </lineStyle>
+                  <lineStyleName>puna</lineStyleName>
+                  <fontName>Serif</fontName>
+                  <fontStyle>0</fontStyle>
+                  <fontSize>12</fontSize>
+                  <fontColor reference="../borderColor"/>
+                  <underline>false</underline>
+                  <shading>false</shading>
+                  <shadow>
+                    <p1>
+                      <x>479.0</x>
+                      <y>211.0</y>
+                    </p1>
+                    <p2>
+                      <x>519.0</x>
+                      <y>211.0</y>
+                    </p2>
+                    <color1 reference="../../../../../../../../java.awt.Component/default/background"/>
+                    <color2 reference="../../../../../../../../java.awt.Component/default/background"/>
+                    <cyclic>true</cyclic>
+                  </shadow>
+                  <resize>false</resize>
+                  <fill>false</fill>
+                </element>
+                <painter class="gge.view.GerundPainter">
+                  <shape class="java.awt.geom.GeneralPath" serialization="custom">
+                    <unserializable-parents/>
+                    <java.awt.geom.Path2D_-Float>
+                      <default/>
+                      <byte>48</byte>
+                      <int>10</int>
+                      <int>16</int>
+                      <byte>1</byte>
+                      <byte>64</byte>
+                      <float>0.0</float>
+                      <float>0.0</float>
+                      <byte>65</byte>
+                      <float>0.0</float>
+                      <float>60.0</float>
+                      <byte>65</byte>
+                      <float>100.0</float>
+                      <float>60.0</float>
+                      <byte>65</byte>
+                      <float>100.0</float>
+                      <float>0.0</float>
+                      <byte>96</byte>
+                      <byte>64</byte>
+                      <float>50.0</float>
+                      <float>0.0</float>
+                      <byte>65</byte>
+                      <float>0.0</float>
+                      <float>30.0</float>
+                      <byte>65</byte>
+                      <float>50.0</float>
+                      <float>60.0</float>
+                      <byte>65</byte>
+                      <float>100.0</float>
+                      <float>30.0</float>
+                      <byte>96</byte>
+                      <byte>97</byte>
+                    </java.awt.geom.Path2D_-Float>
+                  </shape>
+                  <elementTransformation serialization="custom">
+                    <java.awt.geom.AffineTransform>
+                      <default>
+                        <m00>1.0</m00>
+                        <m01>0.0</m01>
+                        <m02>479.0</m02>
+                        <m10>0.0</m10>
+                        <m11>1.0</m11>
+                        <m12>211.0</m12>
+                      </default>
+                    </java.awt.geom.AffineTransform>
+                  </elementTransformation>
+                  <element class="gge.model.Gerund" reference="../../element"/>
+                </painter>
+                <model reference="../../../../../../../.."/>
+                <view reference="../../../../../.."/>
+              </gge.command.AddElementCommand>
+              <gge.command.AddElementCommand>
+                <element class="gge.model.Gerund">
+                  <name>gerund_2</name>
+                  <size class="java.awt.Dimension">
+                    <width>100</width>
+                    <height>60</height>
+                  </size>
+                  <position class="java.awt.geom.Point2D$Double">
+                    <x>248.0</x>
+                    <y>208.0</y>
+                  </position>
+                  <type>gerund</type>
+                  <angle>0.0</angle>
+                  <visibility>false</visibility>
+                  <color reference="../../../../../../../java.awt.Component/default/background"/>
+                  <borderColor reference="../../../gge.command.AddElementCommand/element/borderColor"/>
+                  <lineStyle>
+                    <width>1.0</width>
+                    <join>1</join>
+                    <cap>1</cap>
+                    <miterlimit>5.0</miterlimit>
+                    <dash__phase>0.0</dash__phase>
+                  </lineStyle>
+                  <lineStyleName>puna</lineStyleName>
+                  <fontName>Serif</fontName>
+                  <fontStyle>0</fontStyle>
+                  <fontSize>12</fontSize>
+                  <fontColor reference="../../../gge.command.AddElementCommand/element/borderColor"/>
+                  <underline>false</underline>
+                  <shading>false</shading>
+                  <shadow>
+                    <p1>
+                      <x>248.0</x>
+                      <y>208.0</y>
+                    </p1>
+                    <p2>
+                      <x>288.0</x>
+                      <y>208.0</y>
+                    </p2>
+                    <color1 reference="../../../../../../../../java.awt.Component/default/background"/>
+                    <color2 reference="../../../../../../../../java.awt.Component/default/background"/>
+                    <cyclic>true</cyclic>
+                  </shadow>
+                  <resize>false</resize>
+                  <fill>false</fill>
+                </element>
+                <painter class="gge.view.GerundPainter">
+                  <shape class="java.awt.geom.GeneralPath" serialization="custom">
+                    <unserializable-parents/>
+                    <java.awt.geom.Path2D_-Float>
+                      <default/>
+                      <byte>48</byte>
+                      <int>10</int>
+                      <int>16</int>
+                      <byte>1</byte>
+                      <byte>64</byte>
+                      <float>0.0</float>
+                      <float>0.0</float>
+                      <byte>65</byte>
+                      <float>0.0</float>
+                      <float>60.0</float>
+                      <byte>65</byte>
+                      <float>100.0</float>
+                      <float>60.0</float>
+                      <byte>65</byte>
+                      <float>100.0</float>
+                      <float>0.0</float>
+                      <byte>96</byte>
+                      <byte>64</byte>
+                      <float>50.0</float>
+                      <float>0.0</float>
+                      <byte>65</byte>
+                      <float>0.0</float>
+                      <float>30.0</float>
+                      <byte>65</byte>
+                      <float>50.0</float>
+                      <float>60.0</float>
+                      <byte>65</byte>
+                      <float>100.0</float>
+                      <float>30.0</float>
+                      <byte>96</byte>
+                      <byte>97</byte>
+                    </java.awt.geom.Path2D_-Float>
+                  </shape>
+                  <elementTransformation serialization="custom">
+                    <java.awt.geom.AffineTransform>
+                      <default>
+                        <m00>1.0</m00>
+                        <m01>0.0</m01>
+                        <m02>248.0</m02>
+                        <m10>0.0</m10>
+                        <m11>1.0</m11>
+                        <m12>208.0</m12>
+                      </default>
+                    </java.awt.geom.AffineTransform>
+                  </elementTransformation>
+                  <element class="gge.model.Gerund" reference="../../element"/>
+                </painter>
+                <model reference="../../../../../../../.."/>
+                <view reference="../../../../../.."/>
+              </gge.command.AddElementCommand>
+              <gge.command.AddElementCommand>
+                <element class="gge.model.Gerund">
+                  <name>gerund_3</name>
+                  <size class="java.awt.Dimension">
+                    <width>100</width>
+                    <height>60</height>
+                  </size>
+                  <position class="java.awt.geom.Point2D$Double">
+                    <x>61.0</x>
+                    <y>215.0</y>
+                  </position>
+                  <type>gerund</type>
+                  <angle>0.0</angle>
+                  <visibility>false</visibility>
+                  <color reference="../../../../../../../java.awt.Component/default/background"/>
+                  <borderColor reference="../../../gge.command.AddElementCommand/element/borderColor"/>
+                  <lineStyle>
+                    <width>1.0</width>
+                    <join>1</join>
+                    <cap>1</cap>
+                    <miterlimit>5.0</miterlimit>
+                    <dash__phase>0.0</dash__phase>
+                  </lineStyle>
+                  <lineStyleName>puna</lineStyleName>
+                  <fontName>Serif</fontName>
+                  <fontStyle>0</fontStyle>
+                  <fontSize>12</fontSize>
+                  <fontColor reference="../../../gge.command.AddElementCommand/element/borderColor"/>
+                  <underline>false</underline>
+                  <shading>false</shading>
+                  <shadow>
+                    <p1>
+                      <x>61.0</x>
+                      <y>215.0</y>
+                    </p1>
+                    <p2>
+                      <x>101.0</x>
+                      <y>215.0</y>
+                    </p2>
+                    <color1 reference="../../../../../../../../java.awt.Component/default/background"/>
+                    <color2 reference="../../../../../../../../java.awt.Component/default/background"/>
+                    <cyclic>true</cyclic>
+                  </shadow>
+                  <resize>false</resize>
+                  <fill>false</fill>
+                </element>
+                <painter class="gge.view.GerundPainter">
+                  <shape class="java.awt.geom.GeneralPath" serialization="custom">
+                    <unserializable-parents/>
+                    <java.awt.geom.Path2D_-Float>
+                      <default/>
+                      <byte>48</byte>
+                      <int>10</int>
+                      <int>16</int>
+                      <byte>1</byte>
+                      <byte>64</byte>
+                      <float>0.0</float>
+                      <float>0.0</float>
+                      <byte>65</byte>
+                      <float>0.0</float>
+                      <float>60.0</float>
+                      <byte>65</byte>
+                      <float>100.0</float>
+                      <float>60.0</float>
+                      <byte>65</byte>
+                      <float>100.0</float>
+                      <float>0.0</float>
+                      <byte>96</byte>
+                      <byte>64</byte>
+                      <float>50.0</float>
+                      <float>0.0</float>
+                      <byte>65</byte>
+                      <float>0.0</float>
+                      <float>30.0</float>
+                      <byte>65</byte>
+                      <float>50.0</float>
+                      <float>60.0</float>
+                      <byte>65</byte>
+                      <float>100.0</float>
+                      <float>30.0</float>
+                      <byte>96</byte>
+                      <byte>97</byte>
+                    </java.awt.geom.Path2D_-Float>
+                  </shape>
+                  <elementTransformation serialization="custom">
+                    <java.awt.geom.AffineTransform>
+                      <default>
+                        <m00>1.0</m00>
+                        <m01>0.0</m01>
+                        <m02>61.0</m02>
+                        <m10>0.0</m10>
+                        <m11>1.0</m11>
+                        <m12>215.0</m12>
+                      </default>
+                    </java.awt.geom.AffineTransform>
+                  </elementTransformation>
+                  <element class="gge.model.Gerund" reference="../../element"/>
+                </painter>
+                <model reference="../../../../../../../.."/>
+                <view reference="../../../../../.."/>
+              </gge.command.AddElementCommand>
+            </commands>
+            <gGEModel reference="../../../../../.."/>
+          </commandManager>
+          <controller>
+            <stateManager>
+              <currentState class="gge.state.AddElementState">
+                <view reference="../../../../../.."/>
+                <i>1</i>
+                <k>1</k>
+                <l>4</l>
+                <m>1</m>
+                <n>1</n>
+                <p>1</p>
+              </currentState>
+              <model reference="../../../../../../.."/>
+              <view reference="../../../../.."/>
+              <inDrag>false</inDrag>
+              <inProperties>false</inProperties>
+              <lassoStartX>-1.0</lassoStartX>
+              <lassoStartY>-1.0</lassoStartY>
+            </stateManager>
+            <outer-class reference="../../../.."/>
+          </controller>
+          <elementPainters>
+            <gge.view.GerundPainter reference="../../commandManager/commands/gge.command.AddElementCommand/painter"/>
+            <gge.view.GerundPainter reference="../../commandManager/commands/gge.command.AddElementCommand[2]/painter"/>
+            <gge.view.GerundPainter reference="../../commandManager/commands/gge.command.AddElementCommand[3]/painter"/>
+          </elementPainters>
+          <elementType>gerund</elementType>
+          <gGEModel reference="../../../../.."/>
+          <handleHandler/>
+          <linkPainters/>
+          <selection>
+            <elements/>
+          </selection>
+          <transformation serialization="custom">
+            <java.awt.geom.AffineTransform>
+              <default>
+                <m00>1.0</m00>
+                <m01>0.0</m01>
+                <m02>0.0</m02>
+                <m10>0.0</m10>
+                <m11>1.0</m11>
+                <m12>0.0</m12>
+              </default>
+            </java.awt.geom.AffineTransform>
+          </transformation>
+        </default>
+      </gge.view.GGEView>
+    </gge.view.GGEView>
+    <gge.view.GGETableView serialization="custom">
+      <java.awt.Component>
+        <default>
+          <autoFocusTransferOnDisposal>true</autoFocusTransferOnDisposal>
+          <boundsOp>3</boundsOp>
+          <componentSerializedDataVersion>4</componentSerializedDataVersion>
+          <enabled>true</enabled>
+          <eventMask>4152</eventMask>
+          <focusTraversalKeysEnabled>true</focusTraversalKeysEnabled>
+          <focusable>true</focusable>
+          <height>48</height>
+          <ignoreRepaint>false</ignoreRepaint>
+          <isFocusTraversableOverridden>1</isFocusTraversableOverridden>
+          <isPacked>false</isPacked>
+          <maxSizeSet>false</maxSizeSet>
+          <minSizeSet>false</minSizeSet>
+          <nameExplicitlySet>false</nameExplicitlySet>
+          <newEventsOnly>true</newEventsOnly>
+          <prefSizeSet>false</prefSizeSet>
+          <valid>false</valid>
+          <visible>true</visible>
+          <width>193</width>
+          <x>0</x>
+          <y>0</y>
+          <background class="javax.swing.plaf.ColorUIResource">
+            <value>-1</value>
+            <falpha>0.0</falpha>
+          </background>
+          <changeSupport serialization="custom">
+            <java.beans.PropertyChangeSupport>
+              <default>
+                <source class="gge.view.GGETableView" reference="../../../../../.."/>
+                <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+              </default>
+              <null/>
+            </java.beans.PropertyChangeSupport>
+          </changeSupport>
+          <focusTraversalKeys>
+            <java.util.Collections_-UnmodifiableSet>
+              <c class="set">
+                <javax.swing.KeyStroke>
+                  <keyChar>&#xffff;</keyChar>
+                  <keyCode>9</keyCode>
+                  <modifiers>130</modifiers>
+                  <onKeyRelease>false</onKeyRelease>
+                </javax.swing.KeyStroke>
+              </c>
+            </java.util.Collections_-UnmodifiableSet>
+            <java.util.Collections_-UnmodifiableSet>
+              <c class="set">
+                <javax.swing.KeyStroke>
+                  <keyChar>&#xffff;</keyChar>
+                  <keyCode>9</keyCode>
+                  <modifiers>195</modifiers>
+                  <onKeyRelease>false</onKeyRelease>
+                </javax.swing.KeyStroke>
+              </c>
+            </java.util.Collections_-UnmodifiableSet>
+            <null/>
+            <null/>
+          </focusTraversalKeys>
+          <font class="javax.swing.plaf.FontUIResource">
+            <attributes>
+              <entry>
+                <awt-text-attribute>width</awt-text-attribute>
+                <null/>
+              </entry>
+              <entry>
+                <awt-text-attribute>superscript</awt-text-attribute>
+                <null/>
+              </entry>
+              <entry>
+                <awt-text-attribute>transform</awt-text-attribute>
+                <null/>
+              </entry>
+              <entry>
+                <awt-text-attribute>size</awt-text-attribute>
+                <null/>
+              </entry>
+              <entry>
+                <awt-text-attribute>family</awt-text-attribute>
+                <string>Dialog</string>
+              </entry>
+              <entry>
+                <awt-text-attribute>weight</awt-text-attribute>
+                <null/>
+              </entry>
+              <entry>
+                <awt-text-attribute>posture</awt-text-attribute>
+                <null/>
+              </entry>
+              <entry>
+                <awt-text-attribute>tracking</awt-text-attribute>
+                <null/>
+              </entry>
+            </attributes>
+          </font>
+          <foreground class="sun.swing.PrintColorUIResource" resolves-to="javax.swing.plaf.ColorUIResource">
+            <value>-13421773</value>
+            <falpha>0.0</falpha>
+          </foreground>
+          <locale reference="../../../../gge.view.GGEView/java.awt.Component/default/locale"/>
+          <peerFont class="javax.swing.plaf.FontUIResource" reference="../font"/>
+        </default>
+        <string>componentL</string>
+        <javax.swing.JViewport_-ViewListener>
+          <outer-class serialization="custom">
+            <java.awt.Component>
+              <default>
+                <autoFocusTransferOnDisposal>true</autoFocusTransferOnDisposal>
+                <boundsOp>3</boundsOp>
+                <componentSerializedDataVersion>4</componentSerializedDataVersion>
+                <enabled>true</enabled>
+                <eventMask>4104</eventMask>
+                <focusTraversalKeysEnabled>true</focusTraversalKeysEnabled>
+                <focusable>true</focusable>
+                <height>95</height>
+                <ignoreRepaint>false</ignoreRepaint>
+                <isFocusTraversableOverridden>0</isFocusTraversableOverridden>
+                <isPacked>false</isPacked>
+                <maxSizeSet>false</maxSizeSet>
+                <minSizeSet>false</minSizeSet>
+                <nameExplicitlySet>false</nameExplicitlySet>
+                <newEventsOnly>true</newEventsOnly>
+                <prefSizeSet>false</prefSizeSet>
+                <valid>false</valid>
+                <visible>true</visible>
+                <width>193</width>
+                <x>1</x>
+                <y>21</y>
+                <background class="javax.swing.plaf.ColorUIResource">
+                  <value>-1118482</value>
+                  <falpha>0.0</falpha>
+                </background>
+                <font class="javax.swing.plaf.FontUIResource">
+                  <attributes>
+                    <entry>
+                      <awt-text-attribute>width</awt-text-attribute>
+                      <null/>
+                    </entry>
+                    <entry>
+                      <awt-text-attribute>superscript</awt-text-attribute>
+                      <null/>
+                    </entry>
+                    <entry>
+                      <awt-text-attribute>transform</awt-text-attribute>
+                      <null/>
+                    </entry>
+                    <entry>
+                      <awt-text-attribute>size</awt-text-attribute>
+                      <null/>
+                    </entry>
+                    <entry>
+                      <awt-text-attribute>family</awt-text-attribute>
+                      <string>Dialog</string>
+                    </entry>
+                    <entry>
+                      <awt-text-attribute>weight</awt-text-attribute>
+                      <null/>
+                    </entry>
+                    <entry>
+                      <awt-text-attribute>posture</awt-text-attribute>
+                      <null/>
+                    </entry>
+                    <entry>
+                      <awt-text-attribute>tracking</awt-text-attribute>
+                      <null/>
+                    </entry>
+                  </attributes>
+                </font>
+                <foreground class="sun.swing.PrintColorUIResource" reference="../../../../../../../gge.view.GGEView/java.awt.Component/default/foreground"/>
+                <locale reference="../../../../../../../gge.view.GGEView/java.awt.Component/default/locale"/>
+                <peerFont class="javax.swing.plaf.FontUIResource" reference="../font"/>
+              </default>
+              <null/>
+              <java.awt.ComponentOrientation reference="../../../../../../gge.view.GGEView/java.awt.Component/java.awt.ComponentOrientation"/>
+              <null/>
+              <null/>
+            </java.awt.Component>
+            <java.awt.Container>
+              <default>
+                <ncomponents>1</ncomponents>
+                <component>
+                  <gge.view.GGETableView reference="../../../../../../.."/>
+                </component>
+                <layoutMgr class="javax.swing.ViewportLayout"/>
+                <focusCycleRoot>false</focusCycleRoot>
+                <containerSerializedDataVersion>1</containerSerializedDataVersion>
+                <focusTraversalPolicyProvider>false</focusTraversalPolicyProvider>
+              </default>
+              <null/>
+              <null/>
+            </java.awt.Container>
+            <javax.swing.JComponent>
+              <default>
+                <alignmentX>0.0</alignmentX>
+                <alignmentY>0.0</alignmentY>
+                <autoscrolls>false</autoscrolls>
+                <flags>25182216</flags>
+                <isAlignmentXSet>false</isAlignmentXSet>
+                <isAlignmentYSet>false</isAlignmentYSet>
+                <verifyInputWhenFocusTarget>true</verifyInputWhenFocusTarget>
+                <listenerList serialization="custom">
+                  <javax.swing.event.EventListenerList>
+                    <default/>
+                    <null/>
+                  </javax.swing.event.EventListenerList>
+                </listenerList>
+              </default>
+              <int>0</int>
+            </javax.swing.JComponent>
+            <javax.swing.JViewport>
+              <default>
+                <backingStore>false</backingStore>
+                <hasHadValidView>true</hasHadValidView>
+                <isViewSizeSet>true</isViewSizeSet>
+                <scrollMode>1</scrollMode>
+                <scrollUnderway>false</scrollUnderway>
+                <viewChanged>false</viewChanged>
+                <viewListener class="javax.swing.JViewport$ViewListener" reference="../../../.."/>
+              </default>
+            </javax.swing.JViewport>
+          </outer-class>
+        </javax.swing.JViewport_-ViewListener>
+        <null/>
+        <java.awt.ComponentOrientation reference="../../../gge.view.GGEView/java.awt.Component/java.awt.ComponentOrientation"/>
+        <null/>
+        <null/>
+      </java.awt.Component>
+      <java.awt.Container>
+        <default>
+          <ncomponents>0</ncomponents>
+          <component reference="../../../../gge.view.GGEView/java.awt.Container/default/component"/>
+          <focusCycleRoot>false</focusCycleRoot>
+          <containerSerializedDataVersion>1</containerSerializedDataVersion>
+          <focusTraversalPolicyProvider>false</focusTraversalPolicyProvider>
+        </default>
+        <null/>
+        <null/>
+      </java.awt.Container>
+      <javax.swing.JComponent>
+        <default>
+          <alignmentX>0.0</alignmentX>
+          <alignmentY>0.0</alignmentY>
+          <autoscrolls>true</autoscrolls>
+          <flags>251674952</flags>
+          <isAlignmentXSet>false</isAlignmentXSet>
+          <isAlignmentYSet>false</isAlignmentYSet>
+          <verifyInputWhenFocusTarget>true</verifyInputWhenFocusTarget>
+          <actionMap serialization="custom">
+            <javax.swing.ActionMap>
+              <default/>
+              <int>0</int>
+            </javax.swing.ActionMap>
+          </actionMap>
+          <ancestorInputMap serialization="custom">
+            <javax.swing.InputMap>
+              <default/>
+              <int>0</int>
+            </javax.swing.InputMap>
+          </ancestorInputMap>
+          <listenerList serialization="custom">
+            <javax.swing.event.EventListenerList>
+              <default/>
+              <null/>
+            </javax.swing.event.EventListenerList>
+          </listenerList>
+        </default>
+        <int>0</int>
+      </javax.swing.JComponent>
+      <javax.swing.JTable>
+        <default>
+          <autoCreateColumnsFromModel>true</autoCreateColumnsFromModel>
+          <autoCreateRowSorter>false</autoCreateRowSorter>
+          <autoResizeMode>2</autoResizeMode>
+          <cellSelectionEnabled>false</cellSelectionEnabled>
+          <columnSelectionAdjusting>false</columnSelectionAdjusting>
+          <dragEnabled>false</dragEnabled>
+          <fillsViewportHeight>false</fillsViewportHeight>
+          <ignoreSortChange>false</ignoreSortChange>
+          <isRowHeightSet>false</isRowHeightSet>
+          <rowHeight>16</rowHeight>
+          <rowMargin>1</rowMargin>
+          <rowSelectionAdjusting>false</rowSelectionAdjusting>
+          <rowSelectionAllowed>true</rowSelectionAllowed>
+          <showHorizontalLines>true</showHorizontalLines>
+          <showVerticalLines>true</showVerticalLines>
+          <sorterChanged>false</sorterChanged>
+          <surrendersFocusOnKeystroke>false</surrendersFocusOnKeystroke>
+          <updateSelectionOnSort>true</updateSelectionOnSort>
+          <columnModel class="javax.swing.table.DefaultTableColumnModel">
+            <tableColumns>
+              <javax.swing.table.TableColumn>
+                <modelIndex>0</modelIndex>
+                <width>39</width>
+                <minWidth>15</minWidth>
+                <preferredWidth>75</preferredWidth>
+                <maxWidth>2147483647</maxWidth>
+                <headerValue class="string">Number</headerValue>
+                <isResizable>true</isResizable>
+                <changeSupport serialization="custom">
+                  <java.beans.PropertyChangeSupport>
+                    <default>
+                      <source class="javax.swing.table.TableColumn" reference="../../../.."/>
+                      <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+                    </default>
+                    <javax.swing.table.DefaultTableColumnModel reference="../../../../.."/>
+                    <null/>
+                  </java.beans.PropertyChangeSupport>
+                  <javax.swing.event.SwingPropertyChangeSupport>
+                    <default>
+                      <notifyOnEDT>false</notifyOnEDT>
+                    </default>
+                  </javax.swing.event.SwingPropertyChangeSupport>
+                </changeSupport>
+              </javax.swing.table.TableColumn>
+              <javax.swing.table.TableColumn>
+                <modelIndex>1</modelIndex>
+                <width>39</width>
+                <minWidth>15</minWidth>
+                <preferredWidth>75</preferredWidth>
+                <maxWidth>2147483647</maxWidth>
+                <headerValue class="string">Name</headerValue>
+                <isResizable>true</isResizable>
+                <changeSupport serialization="custom">
+                  <java.beans.PropertyChangeSupport>
+                    <default>
+                      <source class="javax.swing.table.TableColumn" reference="../../../.."/>
+                      <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+                    </default>
+                    <javax.swing.table.DefaultTableColumnModel reference="../../../../.."/>
+                    <null/>
+                  </java.beans.PropertyChangeSupport>
+                  <javax.swing.event.SwingPropertyChangeSupport>
+                    <default>
+                      <notifyOnEDT>false</notifyOnEDT>
+                    </default>
+                  </javax.swing.event.SwingPropertyChangeSupport>
+                </changeSupport>
+              </javax.swing.table.TableColumn>
+              <javax.swing.table.TableColumn>
+                <modelIndex>2</modelIndex>
+                <width>38</width>
+                <minWidth>15</minWidth>
+                <preferredWidth>75</preferredWidth>
+                <maxWidth>2147483647</maxWidth>
+                <headerValue class="string">Type</headerValue>
+                <isResizable>true</isResizable>
+                <changeSupport serialization="custom">
+                  <java.beans.PropertyChangeSupport>
+                    <default>
+                      <source class="javax.swing.table.TableColumn" reference="../../../.."/>
+                      <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+                    </default>
+                    <javax.swing.table.DefaultTableColumnModel reference="../../../../.."/>
+                    <null/>
+                  </java.beans.PropertyChangeSupport>
+                  <javax.swing.event.SwingPropertyChangeSupport>
+                    <default>
+                      <notifyOnEDT>false</notifyOnEDT>
+                    </default>
+                  </javax.swing.event.SwingPropertyChangeSupport>
+                </changeSupport>
+              </javax.swing.table.TableColumn>
+              <javax.swing.table.TableColumn>
+                <modelIndex>3</modelIndex>
+                <width>39</width>
+                <minWidth>15</minWidth>
+                <preferredWidth>75</preferredWidth>
+                <maxWidth>2147483647</maxWidth>
+                <headerValue class="string">Position</headerValue>
+                <isResizable>true</isResizable>
+                <changeSupport serialization="custom">
+                  <java.beans.PropertyChangeSupport>
+                    <default>
+                      <source class="javax.swing.table.TableColumn" reference="../../../.."/>
+                      <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+                    </default>
+                    <javax.swing.table.DefaultTableColumnModel reference="../../../../.."/>
+                    <null/>
+                  </java.beans.PropertyChangeSupport>
+                  <javax.swing.event.SwingPropertyChangeSupport>
+                    <default>
+                      <notifyOnEDT>false</notifyOnEDT>
+                    </default>
+                  </javax.swing.event.SwingPropertyChangeSupport>
+                </changeSupport>
+              </javax.swing.table.TableColumn>
+              <javax.swing.table.TableColumn>
+                <modelIndex>4</modelIndex>
+                <width>38</width>
+                <minWidth>15</minWidth>
+                <preferredWidth>75</preferredWidth>
+                <maxWidth>2147483647</maxWidth>
+                <headerValue class="string">Size</headerValue>
+                <isResizable>true</isResizable>
+                <changeSupport serialization="custom">
+                  <java.beans.PropertyChangeSupport>
+                    <default>
+                      <source class="javax.swing.table.TableColumn" reference="../../../.."/>
+                      <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+                    </default>
+                    <javax.swing.table.DefaultTableColumnModel reference="../../../../.."/>
+                    <null/>
+                  </java.beans.PropertyChangeSupport>
+                  <javax.swing.event.SwingPropertyChangeSupport>
+                    <default>
+                      <notifyOnEDT>false</notifyOnEDT>
+                    </default>
+                  </javax.swing.event.SwingPropertyChangeSupport>
+                </changeSupport>
+              </javax.swing.table.TableColumn>
+            </tableColumns>
+            <selectionModel class="javax.swing.DefaultListSelectionModel">
+              <selectionMode>0</selectionMode>
+              <minIndex>2147483647</minIndex>
+              <maxIndex>-1</maxIndex>
+              <anchorIndex>-1</anchorIndex>
+              <leadIndex>-1</leadIndex>
+              <firstAdjustedIndex>2147483647</firstAdjustedIndex>
+              <lastAdjustedIndex>-1</lastAdjustedIndex>
+              <isAdjusting>false</isAdjusting>
+              <firstChangedIndex>2147483647</firstChangedIndex>
+              <lastChangedIndex>-1</lastChangedIndex>
+              <value></value>
+              <listenerList serialization="custom">
+                <javax.swing.event.EventListenerList>
+                  <default/>
+                  <string>javax.swing.event.ListSelectionListener</string>
+                  <javax.swing.table.DefaultTableColumnModel reference="../../../.."/>
+                  <null/>
+                </javax.swing.event.EventListenerList>
+              </listenerList>
+              <leadAnchorNotificationEnabled>true</leadAnchorNotificationEnabled>
+            </selectionModel>
+            <columnMargin>1</columnMargin>
+            <listenerList serialization="custom">
+              <javax.swing.event.EventListenerList>
+                <default/>
+                <string>javax.swing.event.TableColumnModelListener</string>
+                <gge.view.GGETableView reference="../../../../../.."/>
+                <string>javax.swing.event.TableColumnModelListener</string>
+                <javax.swing.table.JTableHeader serialization="custom">
+                  <java.awt.Component>
+                    <default>
+                      <autoFocusTransferOnDisposal>true</autoFocusTransferOnDisposal>
+                      <boundsOp>3</boundsOp>
+                      <componentSerializedDataVersion>4</componentSerializedDataVersion>
+                      <enabled>true</enabled>
+                      <eventMask>4104</eventMask>
+                      <focusTraversalKeysEnabled>true</focusTraversalKeysEnabled>
+                      <focusable>true</focusable>
+                      <height>20</height>
+                      <ignoreRepaint>false</ignoreRepaint>
+                      <isFocusTraversableOverridden>0</isFocusTraversableOverridden>
+                      <isPacked>false</isPacked>
+                      <maxSizeSet>false</maxSizeSet>
+                      <minSizeSet>false</minSizeSet>
+                      <nameExplicitlySet>false</nameExplicitlySet>
+                      <newEventsOnly>true</newEventsOnly>
+                      <prefSizeSet>false</prefSizeSet>
+                      <valid>false</valid>
+                      <visible>true</visible>
+                      <width>375</width>
+                      <x>0</x>
+                      <y>0</y>
+                      <background class="javax.swing.plaf.ColorUIResource" reference="../../../../../../../../../java.awt.Component/javax.swing.JViewport_-ViewListener/outer-class/java.awt.Component/default/background"/>
+                      <font class="javax.swing.plaf.FontUIResource" reference="../../../../../../../../../java.awt.Component/default/font"/>
+                      <foreground class="sun.swing.PrintColorUIResource" reference="../../../../../../../../../java.awt.Component/default/foreground"/>
+                      <locale reference="../../../../../../../../../../gge.view.GGEView/java.awt.Component/default/locale"/>
+                      <peerFont class="javax.swing.plaf.FontUIResource" reference="../../../../../../../../../java.awt.Component/default/font"/>
+                    </default>
+                    <string>componentL</string>
+                    <javax.swing.JViewport_-ViewListener>
+                      <outer-class serialization="custom">
+                        <java.awt.Component>
+                          <default>
+                            <autoFocusTransferOnDisposal>true</autoFocusTransferOnDisposal>
+                            <boundsOp>3</boundsOp>
+                            <componentSerializedDataVersion>4</componentSerializedDataVersion>
+                            <enabled>true</enabled>
+                            <eventMask>4104</eventMask>
+                            <focusTraversalKeysEnabled>true</focusTraversalKeysEnabled>
+                            <focusable>true</focusable>
+                            <height>20</height>
+                            <ignoreRepaint>false</ignoreRepaint>
+                            <isFocusTraversableOverridden>0</isFocusTraversableOverridden>
+                            <isPacked>false</isPacked>
+                            <maxSizeSet>false</maxSizeSet>
+                            <minSizeSet>false</minSizeSet>
+                            <nameExplicitlySet>false</nameExplicitlySet>
+                            <newEventsOnly>true</newEventsOnly>
+                            <prefSizeSet>false</prefSizeSet>
+                            <valid>false</valid>
+                            <visible>true</visible>
+                            <width>193</width>
+                            <x>1</x>
+                            <y>1</y>
+                            <background class="javax.swing.plaf.ColorUIResource" reference="../../../../../../../../../../../../java.awt.Component/javax.swing.JViewport_-ViewListener/outer-class/java.awt.Component/default/background"/>
+                            <font class="javax.swing.plaf.FontUIResource" reference="../../../../../../../../../../../../java.awt.Component/javax.swing.JViewport_-ViewListener/outer-class/java.awt.Component/default/font"/>
+                            <foreground class="sun.swing.PrintColorUIResource" reference="../../../../../../../../../../../../../gge.view.GGEView/java.awt.Component/default/foreground"/>
+                            <locale reference="../../../../../../../../../../../../../gge.view.GGEView/java.awt.Component/default/locale"/>
+                            <peerFont class="javax.swing.plaf.FontUIResource" reference="../../../../../../../../../../../../java.awt.Component/javax.swing.JViewport_-ViewListener/outer-class/java.awt.Component/default/font"/>
+                          </default>
+                          <null/>
+                          <java.awt.ComponentOrientation reference="../../../../../../../../../../../../gge.view.GGEView/java.awt.Component/java.awt.ComponentOrientation"/>
+                          <null/>
+                          <null/>
+                        </java.awt.Component>
+                        <java.awt.Container>
+                          <default>
+                            <ncomponents>1</ncomponents>
+                            <component>
+                              <javax.swing.table.JTableHeader reference="../../../../../../.."/>
+                            </component>
+                            <layoutMgr class="javax.swing.ViewportLayout" reference="../../../../../../../../../../../../java.awt.Component/javax.swing.JViewport_-ViewListener/outer-class/java.awt.Container/default/layoutMgr"/>
+                            <focusCycleRoot>false</focusCycleRoot>
+                            <containerSerializedDataVersion>1</containerSerializedDataVersion>
+                            <focusTraversalPolicyProvider>false</focusTraversalPolicyProvider>
+                          </default>
+                          <null/>
+                          <null/>
+                        </java.awt.Container>
+                        <javax.swing.JComponent>
+                          <default>
+                            <alignmentX>0.0</alignmentX>
+                            <alignmentY>0.0</alignmentY>
+                            <autoscrolls>false</autoscrolls>
+                            <flags>25182216</flags>
+                            <isAlignmentXSet>false</isAlignmentXSet>
+                            <isAlignmentYSet>false</isAlignmentYSet>
+                            <verifyInputWhenFocusTarget>true</verifyInputWhenFocusTarget>
+                            <listenerList serialization="custom">
+                              <javax.swing.event.EventListenerList>
+                                <default/>
+                                <null/>
+                              </javax.swing.event.EventListenerList>
+                            </listenerList>
+                          </default>
+                          <int>0</int>
+                        </javax.swing.JComponent>
+                        <javax.swing.JViewport>
+                          <default>
+                            <backingStore>false</backingStore>
+                            <hasHadValidView>true</hasHadValidView>
+                            <isViewSizeSet>true</isViewSizeSet>
+                            <scrollMode>1</scrollMode>
+                            <scrollUnderway>false</scrollUnderway>
+                            <viewChanged>false</viewChanged>
+                            <viewListener class="javax.swing.JViewport$ViewListener" reference="../../../.."/>
+                          </default>
+                        </javax.swing.JViewport>
+                      </outer-class>
+                    </javax.swing.JViewport_-ViewListener>
+                    <null/>
+                    <java.awt.ComponentOrientation reference="../../../../../../../../../gge.view.GGEView/java.awt.Component/java.awt.ComponentOrientation"/>
+                    <null/>
+                    <null/>
+                  </java.awt.Component>
+                  <java.awt.Container>
+                    <default>
+                      <ncomponents>0</ncomponents>
+                      <component reference="../../../../../../../../../../gge.view.GGEView/java.awt.Container/default/component"/>
+                      <focusCycleRoot>false</focusCycleRoot>
+                      <containerSerializedDataVersion>1</containerSerializedDataVersion>
+                      <focusTraversalPolicyProvider>false</focusTraversalPolicyProvider>
+                    </default>
+                    <null/>
+                    <null/>
+                  </java.awt.Container>
+                  <javax.swing.JComponent>
+                    <default>
+                      <alignmentX>0.0</alignmentX>
+                      <alignmentY>0.0</alignmentY>
+                      <autoscrolls>false</autoscrolls>
+                      <flags>16793928</flags>
+                      <isAlignmentXSet>false</isAlignmentXSet>
+                      <isAlignmentYSet>false</isAlignmentYSet>
+                      <verifyInputWhenFocusTarget>true</verifyInputWhenFocusTarget>
+                      <actionMap serialization="custom">
+                        <javax.swing.ActionMap>
+                          <default/>
+                          <int>0</int>
+                        </javax.swing.ActionMap>
+                      </actionMap>
+                      <ancestorInputMap serialization="custom">
+                        <javax.swing.InputMap>
+                          <default>
+                            <parent class="javax.swing.plaf.InputMapUIResource" serialization="custom">
+                              <javax.swing.InputMap>
+                                <default/>
+                                <int>14</int>
+                                <javax.swing.KeyStroke>
+                                  <keyChar>&#xffff;</keyChar>
+                                  <keyCode>39</keyCode>
+                                  <modifiers>520</modifiers>
+                                  <onKeyRelease>false</onKeyRelease>
+                                </javax.swing.KeyStroke>
+                                <string>moveColumnRight</string>
+                                <javax.swing.KeyStroke>
+                                  <keyChar>&#xffff;</keyChar>
+                                  <keyCode>32</keyCode>
+                                  <modifiers>0</modifiers>
+                                  <onKeyRelease>false</onKeyRelease>
+                                </javax.swing.KeyStroke>
+                                <string>toggleSortOrder</string>
+                                <javax.swing.KeyStroke>
+                                  <keyChar>&#xffff;</keyChar>
+                                  <keyCode>39</keyCode>
+                                  <modifiers>585</modifiers>
+                                  <onKeyRelease>false</onKeyRelease>
+                                </javax.swing.KeyStroke>
+                                <string>resizeRight</string>
+                                <javax.swing.KeyStroke>
+                                  <keyChar>&#xffff;</keyChar>
+                                  <keyCode>226</keyCode>
+                                  <modifiers>520</modifiers>
+                                  <onKeyRelease>false</onKeyRelease>
+                                </javax.swing.KeyStroke>
+                                <string>moveColumnLeft</string>
+                                <javax.swing.KeyStroke>
+                                  <keyChar>&#xffff;</keyChar>
+                                  <keyCode>37</keyCode>
+                                  <modifiers>520</modifiers>
+                                  <onKeyRelease>false</onKeyRelease>
+                                </javax.swing.KeyStroke>
+                                <string>moveColumnLeft</string>
+                                <javax.swing.KeyStroke>
+                                  <keyChar>&#xffff;</keyChar>
+                                  <keyCode>227</keyCode>
+                                  <modifiers>0</modifiers>
+                                  <onKeyRelease>false</onKeyRelease>
+                                </javax.swing.KeyStroke>
+                                <string>selectColumnToRight</string>
+                                <javax.swing.KeyStroke>
+                                  <keyChar>&#xffff;</keyChar>
+                                  <keyCode>226</keyCode>
+                                  <modifiers>0</modifiers>
+                                  <onKeyRelease>false</onKeyRelease>
+                                </javax.swing.KeyStroke>
+                                <string>selectColumnToLeft</string>
+                                <javax.swing.KeyStroke>
+                                  <keyChar>&#xffff;</keyChar>
+                                  <keyCode>39</keyCode>
+                                  <modifiers>0</modifiers>
+                                  <onKeyRelease>false</onKeyRelease>
+                                </javax.swing.KeyStroke>
+                                <string>selectColumnToRight</string>
+                                <javax.swing.KeyStroke>
+                                  <keyChar>&#xffff;</keyChar>
+                                  <keyCode>227</keyCode>
+                                  <modifiers>520</modifiers>
+                                  <onKeyRelease>false</onKeyRelease>
+                                </javax.swing.KeyStroke>
+                                <string>moveColumnRight</string>
+                                <javax.swing.KeyStroke>
+                                  <keyChar>&#xffff;</keyChar>
+                                  <keyCode>27</keyCode>
+                                  <modifiers>0</modifiers>
+                                  <onKeyRelease>false</onKeyRelease>
+                                </javax.swing.KeyStroke>
+                                <string>focusTable</string>
+                                <javax.swing.KeyStroke>
+                                  <keyChar>&#xffff;</keyChar>
+                                  <keyCode>227</keyCode>
+                                  <modifiers>585</modifiers>
+                                  <onKeyRelease>false</onKeyRelease>
+                                </javax.swing.KeyStroke>
+                                <string>resizeRight</string>
+                                <javax.swing.KeyStroke>
+                                  <keyChar>&#xffff;</keyChar>
+                                  <keyCode>37</keyCode>
+                                  <modifiers>585</modifiers>
+                                  <onKeyRelease>false</onKeyRelease>
+                                </javax.swing.KeyStroke>
+                                <string>resizeLeft</string>
+                                <javax.swing.KeyStroke>
+                                  <keyChar>&#xffff;</keyChar>
+                                  <keyCode>37</keyCode>
+                                  <modifiers>0</modifiers>
+                                  <onKeyRelease>false</onKeyRelease>
+                                </javax.swing.KeyStroke>
+                                <string>selectColumnToLeft</string>
+                                <javax.swing.KeyStroke>
+                                  <keyChar>&#xffff;</keyChar>
+                                  <keyCode>226</keyCode>
+                                  <modifiers>585</modifiers>
+                                  <onKeyRelease>false</onKeyRelease>
+                                </javax.swing.KeyStroke>
+                                <string>resizeLeft</string>
+                              </javax.swing.InputMap>
+                            </parent>
+                          </default>
+                          <int>0</int>
+                        </javax.swing.InputMap>
+                      </ancestorInputMap>
+                      <listenerList serialization="custom">
+                        <javax.swing.event.EventListenerList>
+                          <default/>
+                          <null/>
+                        </javax.swing.event.EventListenerList>
+                      </listenerList>
+                    </default>
+                    <int>0</int>
+                  </javax.swing.JComponent>
+                  <javax.swing.table.JTableHeader>
+                    <default>
+                      <reorderingAllowed>true</reorderingAllowed>
+                      <resizingAllowed>true</resizingAllowed>
+                      <updateTableInRealTime>true</updateTableInRealTime>
+                      <columnModel class="javax.swing.table.DefaultTableColumnModel" reference="../../../../../.."/>
+                      <defaultRenderer class="sun.swing.table.DefaultTableCellHeaderRenderer" serialization="custom">
+                        <java.awt.Component>
+                          <default>
+                            <autoFocusTransferOnDisposal>true</autoFocusTransferOnDisposal>
+                            <boundsOp>3</boundsOp>
+                            <componentSerializedDataVersion>4</componentSerializedDataVersion>
+                            <enabled>true</enabled>
+                            <eventMask>4104</eventMask>
+                            <focusTraversalKeysEnabled>true</focusTraversalKeysEnabled>
+                            <focusable>true</focusable>
+                            <height>0</height>
+                            <ignoreRepaint>false</ignoreRepaint>
+                            <isFocusTraversableOverridden>0</isFocusTraversableOverridden>
+                            <isPacked>false</isPacked>
+                            <maxSizeSet>false</maxSizeSet>
+                            <minSizeSet>false</minSizeSet>
+                            <nameExplicitlySet>true</nameExplicitlySet>
+                            <newEventsOnly>true</newEventsOnly>
+                            <prefSizeSet>false</prefSizeSet>
+                            <valid>false</valid>
+                            <visible>true</visible>
+                            <width>0</width>
+                            <x>0</x>
+                            <y>0</y>
+                            <background class="javax.swing.plaf.ColorUIResource" reference="../../../../../../../../../../../../java.awt.Component/javax.swing.JViewport_-ViewListener/outer-class/java.awt.Component/default/background"/>
+                            <changeSupport serialization="custom">
+                              <java.beans.PropertyChangeSupport>
+                                <default>
+                                  <source class="sun.swing.table.DefaultTableCellHeaderRenderer" reference="../../../../../.."/>
+                                  <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+                                </default>
+                                <null/>
+                              </java.beans.PropertyChangeSupport>
+                            </changeSupport>
+                            <font class="javax.swing.plaf.FontUIResource" reference="../../../../../../../../../../../../java.awt.Component/default/font"/>
+                            <foreground class="sun.swing.PrintColorUIResource" reference="../../../../../../../../../../../../java.awt.Component/default/foreground"/>
+                            <locale reference="../../../../../../../../../../../../../gge.view.GGEView/java.awt.Component/default/locale"/>
+                            <name>Table.cellRenderer</name>
+                          </default>
+                          <null/>
+                          <java.awt.ComponentOrientation reference="../../../../../../../../../../../../gge.view.GGEView/java.awt.Component/java.awt.ComponentOrientation"/>
+                          <null/>
+                          <null/>
+                        </java.awt.Component>
+                        <java.awt.Container>
+                          <default>
+                            <ncomponents>0</ncomponents>
+                            <component reference="../../../../../../../../../../../../../gge.view.GGEView/java.awt.Container/default/component"/>
+                            <focusCycleRoot>false</focusCycleRoot>
+                            <containerSerializedDataVersion>1</containerSerializedDataVersion>
+                            <focusTraversalPolicyProvider>false</focusTraversalPolicyProvider>
+                          </default>
+                          <null/>
+                          <null/>
+                        </java.awt.Container>
+                        <javax.swing.JComponent>
+                          <default>
+                            <alignmentX>0.0</alignmentX>
+                            <alignmentY>0.0</alignmentY>
+                            <autoscrolls>false</autoscrolls>
+                            <flags>25182216</flags>
+                            <isAlignmentXSet>true</isAlignmentXSet>
+                            <isAlignmentYSet>false</isAlignmentYSet>
+                            <verifyInputWhenFocusTarget>true</verifyInputWhenFocusTarget>
+                            <border class="javax.swing.plaf.metal.MetalBorders$TableHeaderBorder">
+                              <editorBorderInsets>
+                                <top>2</top>
+                                <left>2</left>
+                                <bottom>2</bottom>
+                                <right>0</right>
+                              </editorBorderInsets>
+                            </border>
+                            <listenerList serialization="custom">
+                              <javax.swing.event.EventListenerList>
+                                <default/>
+                                <null/>
+                              </javax.swing.event.EventListenerList>
+                            </listenerList>
+                          </default>
+                          <int>0</int>
+                        </javax.swing.JComponent>
+                        <javax.swing.JLabel>
+                          <default>
+                            <disabledIconSet>false</disabledIconSet>
+                            <horizontalAlignment>0</horizontalAlignment>
+                            <horizontalTextPosition>11</horizontalTextPosition>
+                            <iconTextGap>4</iconTextGap>
+                            <mnemonic>0</mnemonic>
+                            <mnemonicIndex>-1</mnemonicIndex>
+                            <verticalAlignment>0</verticalAlignment>
+                            <verticalTextPosition>0</verticalTextPosition>
+                            <text>Number</text>
+                          </default>
+                        </javax.swing.JLabel>
+                        <javax.swing.table.DefaultTableCellRenderer>
+                          <default>
+                            <unselectedBackground class="javax.swing.plaf.ColorUIResource" reference="../../../../../../../../../../../../java.awt.Component/javax.swing.JViewport_-ViewListener/outer-class/java.awt.Component/default/background"/>
+                            <unselectedForeground class="sun.swing.PrintColorUIResource" reference="../../../../../../../../../../../../../gge.view.GGEView/java.awt.Component/default/foreground"/>
+                          </default>
+                        </javax.swing.table.DefaultTableCellRenderer>
+                        <sun.swing.table.DefaultTableCellHeaderRenderer>
+                          <default>
+                            <horizontalTextPositionSet>false</horizontalTextPositionSet>
+                            <emptyIcon>
+                              <width>0</width>
+                              <height>0</height>
+                              <outer-class reference="../../../.."/>
+                            </emptyIcon>
+                          </default>
+                        </sun.swing.table.DefaultTableCellHeaderRenderer>
+                      </defaultRenderer>
+                      <table class="gge.view.GGETableView" reference="../../../../../../../../.."/>
+                    </default>
+                  </javax.swing.table.JTableHeader>
+                </javax.swing.table.JTableHeader>
+                <null/>
+              </javax.swing.event.EventListenerList>
+            </listenerList>
+            <columnSelectionAllowed>false</columnSelectionAllowed>
+            <totalColumnWidth>-1</totalColumnWidth>
+          </columnModel>
+          <dataModel class="gge.view.GGETableView$GGETableModel">
+            <listenerList serialization="custom">
+              <javax.swing.event.EventListenerList>
+                <default/>
+                <string>javax.swing.event.TableModelListener</string>
+                <gge.view.GGETableView reference="../../../../../.."/>
+                <null/>
+              </javax.swing.event.EventListenerList>
+            </listenerList>
+            <columnNames>
+              <string>Number</string>
+              <string>Name</string>
+              <string>Type</string>
+              <string>Position</string>
+              <string>Size</string>
+            </columnNames>
+            <outer-class reference="../../../.."/>
+          </dataModel>
+          <dropMode>USE_SELECTION</dropMode>
+          <gridColor class="javax.swing.plaf.ColorUIResource">
+            <value>-8746343</value>
+            <falpha>0.0</falpha>
+          </gridColor>
+          <preferredViewportSize>
+            <width>450</width>
+            <height>400</height>
+          </preferredViewportSize>
+          <selectionBackground class="javax.swing.plaf.ColorUIResource">
+            <value>-4665371</value>
+            <falpha>0.0</falpha>
+          </selectionBackground>
+          <selectionForeground class="sun.swing.PrintColorUIResource" reference="../../../java.awt.Component/default/foreground"/>
+          <selectionModel class="javax.swing.DefaultListSelectionModel">
+            <selectionMode>0</selectionMode>
+            <minIndex>2147483647</minIndex>
+            <maxIndex>-1</maxIndex>
+            <anchorIndex>-1</anchorIndex>
+            <leadIndex>-1</leadIndex>
+            <firstAdjustedIndex>2147483647</firstAdjustedIndex>
+            <lastAdjustedIndex>-1</lastAdjustedIndex>
+            <isAdjusting>false</isAdjusting>
+            <firstChangedIndex>2147483647</firstChangedIndex>
+            <lastChangedIndex>-1</lastChangedIndex>
+            <value></value>
+            <listenerList serialization="custom">
+              <javax.swing.event.EventListenerList>
+                <default/>
+                <string>javax.swing.event.ListSelectionListener</string>
+                <gge.view.GGETableView reference="../../../../../.."/>
+                <null/>
+              </javax.swing.event.EventListenerList>
+            </listenerList>
+            <leadAnchorNotificationEnabled>true</leadAnchorNotificationEnabled>
+          </selectionModel>
+          <tableHeader reference="../columnModel/listenerList/javax.swing.event.EventListenerList/javax.swing.table.JTableHeader"/>
+        </default>
+      </javax.swing.JTable>
+      <gge.view.GGETableView>
+        <default>
+          <columnNames reference="../../../javax.swing.JTable/default/dataModel/columnNames"/>
+          <gGEModel reference="../../../../.."/>
+          <tableModel reference="../../../javax.swing.JTable/default/dataModel"/>
+        </default>
+      </gge.view.GGETableView>
+    </gge.view.GGETableView>
+    <gge.gui.workspace.WorkspaceTree serialization="custom">
+      <java.awt.Component>
+        <default>
+          <autoFocusTransferOnDisposal>true</autoFocusTransferOnDisposal>
+          <boundsOp>3</boundsOp>
+          <componentSerializedDataVersion>4</componentSerializedDataVersion>
+          <enabled>true</enabled>
+          <eventMask>4104</eventMask>
+          <focusTraversalKeysEnabled>true</focusTraversalKeysEnabled>
+          <focusable>true</focusable>
+          <height>284</height>
+          <ignoreRepaint>false</ignoreRepaint>
+          <isFocusTraversableOverridden>2</isFocusTraversableOverridden>
+          <isPacked>false</isPacked>
+          <maxSizeSet>false</maxSizeSet>
+          <minSizeSet>false</minSizeSet>
+          <nameExplicitlySet>false</nameExplicitlySet>
+          <newEventsOnly>true</newEventsOnly>
+          <prefSizeSet>false</prefSizeSet>
+          <valid>false</valid>
+          <visible>true</visible>
+          <width>198</width>
+          <x>0</x>
+          <y>0</y>
+          <background class="javax.swing.plaf.ColorUIResource" reference="../../../../gge.view.GGETableView/java.awt.Component/default/background"/>
+          <changeSupport serialization="custom">
+            <java.beans.PropertyChangeSupport>
+              <default>
+                <source class="gge.gui.workspace.WorkspaceTree" reference="../../../../../.."/>
+                <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+              </default>
+              <null/>
+            </java.beans.PropertyChangeSupport>
+          </changeSupport>
+          <font class="javax.swing.plaf.FontUIResource" reference="../../../../gge.view.GGETableView/java.awt.Component/default/font"/>
+          <locale reference="../../../../gge.view.GGEView/java.awt.Component/default/locale"/>
+          <peerFont class="javax.swing.plaf.FontUIResource" reference="../../../../gge.view.GGETableView/java.awt.Component/default/font"/>
+        </default>
+        <string>componentL</string>
+        <javax.swing.JViewport_-ViewListener>
+          <outer-class serialization="custom">
+            <java.awt.Component>
+              <default>
+                <autoFocusTransferOnDisposal>true</autoFocusTransferOnDisposal>
+                <boundsOp>3</boundsOp>
+                <componentSerializedDataVersion>4</componentSerializedDataVersion>
+                <enabled>true</enabled>
+                <eventMask>4104</eventMask>
+                <focusTraversalKeysEnabled>true</focusTraversalKeysEnabled>
+                <focusable>true</focusable>
+                <height>284</height>
+                <ignoreRepaint>false</ignoreRepaint>
+                <isFocusTraversableOverridden>0</isFocusTraversableOverridden>
+                <isPacked>false</isPacked>
+                <maxSizeSet>false</maxSizeSet>
+                <minSizeSet>false</minSizeSet>
+                <nameExplicitlySet>false</nameExplicitlySet>
+                <newEventsOnly>true</newEventsOnly>
+                <prefSizeSet>false</prefSizeSet>
+                <valid>false</valid>
+                <visible>true</visible>
+                <width>198</width>
+                <x>1</x>
+                <y>1</y>
+                <background class="javax.swing.plaf.ColorUIResource" reference="../../../../../../../gge.view.GGETableView/java.awt.Component/javax.swing.JViewport_-ViewListener/outer-class/java.awt.Component/default/background"/>
+                <font class="javax.swing.plaf.FontUIResource" reference="../../../../../../../gge.view.GGETableView/java.awt.Component/javax.swing.JViewport_-ViewListener/outer-class/java.awt.Component/default/font"/>
+                <foreground class="sun.swing.PrintColorUIResource" reference="../../../../../../../gge.view.GGEView/java.awt.Component/default/foreground"/>
+                <locale reference="../../../../../../../gge.view.GGEView/java.awt.Component/default/locale"/>
+                <peerFont class="javax.swing.plaf.FontUIResource" reference="../../../../../../../gge.view.GGETableView/java.awt.Component/javax.swing.JViewport_-ViewListener/outer-class/java.awt.Component/default/font"/>
+              </default>
+              <null/>
+              <java.awt.ComponentOrientation reference="../../../../../../gge.view.GGEView/java.awt.Component/java.awt.ComponentOrientation"/>
+              <null/>
+              <null/>
+            </java.awt.Component>
+            <java.awt.Container>
+              <default>
+                <ncomponents>1</ncomponents>
+                <component>
+                  <gge.gui.workspace.WorkspaceTree reference="../../../../../../.."/>
+                </component>
+                <layoutMgr class="javax.swing.ViewportLayout" reference="../../../../../../../gge.view.GGETableView/java.awt.Component/javax.swing.JViewport_-ViewListener/outer-class/java.awt.Container/default/layoutMgr"/>
+                <focusCycleRoot>false</focusCycleRoot>
+                <containerSerializedDataVersion>1</containerSerializedDataVersion>
+                <focusTraversalPolicyProvider>false</focusTraversalPolicyProvider>
+              </default>
+              <null/>
+              <null/>
+            </java.awt.Container>
+            <javax.swing.JComponent>
+              <default>
+                <alignmentX>0.0</alignmentX>
+                <alignmentY>0.0</alignmentY>
+                <autoscrolls>false</autoscrolls>
+                <flags>25182216</flags>
+                <isAlignmentXSet>false</isAlignmentXSet>
+                <isAlignmentYSet>false</isAlignmentYSet>
+                <verifyInputWhenFocusTarget>true</verifyInputWhenFocusTarget>
+                <listenerList serialization="custom">
+                  <javax.swing.event.EventListenerList>
+                    <default/>
+                    <null/>
+                  </javax.swing.event.EventListenerList>
+                </listenerList>
+              </default>
+              <int>0</int>
+            </javax.swing.JComponent>
+            <javax.swing.JViewport>
+              <default>
+                <backingStore>false</backingStore>
+                <hasHadValidView>true</hasHadValidView>
+                <isViewSizeSet>true</isViewSizeSet>
+                <scrollMode>1</scrollMode>
+                <scrollUnderway>false</scrollUnderway>
+                <viewChanged>false</viewChanged>
+                <lastPaintPosition>
+                  <x>0</x>
+                  <y>0</y>
+                </lastPaintPosition>
+                <viewListener class="javax.swing.JViewport$ViewListener" reference="../../../.."/>
+              </default>
+            </javax.swing.JViewport>
+          </outer-class>
+        </javax.swing.JViewport_-ViewListener>
+        <null/>
+        <java.awt.ComponentOrientation reference="../../../gge.view.GGEView/java.awt.Component/java.awt.ComponentOrientation"/>
+        <null/>
+        <null/>
+      </java.awt.Component>
+      <java.awt.Container>
+        <default>
+          <ncomponents>0</ncomponents>
+          <component reference="../../../../gge.view.GGEView/java.awt.Container/default/component"/>
+          <focusCycleRoot>false</focusCycleRoot>
+          <containerSerializedDataVersion>1</containerSerializedDataVersion>
+          <focusTraversalPolicyProvider>false</focusTraversalPolicyProvider>
+        </default>
+        <null/>
+        <null/>
+      </java.awt.Container>
+      <javax.swing.JComponent>
+        <default>
+          <alignmentX>0.0</alignmentX>
+          <alignmentY>0.0</alignmentY>
+          <autoscrolls>false</autoscrolls>
+          <flags>16793960</flags>
+          <isAlignmentXSet>false</isAlignmentXSet>
+          <isAlignmentYSet>false</isAlignmentYSet>
+          <verifyInputWhenFocusTarget>true</verifyInputWhenFocusTarget>
+          <actionMap serialization="custom">
+            <javax.swing.ActionMap>
+              <default/>
+              <int>0</int>
+            </javax.swing.ActionMap>
+          </actionMap>
+          <ancestorInputMap serialization="custom">
+            <javax.swing.InputMap>
+              <default/>
+              <int>0</int>
+            </javax.swing.InputMap>
+          </ancestorInputMap>
+          <focusInputMap serialization="custom">
+            <javax.swing.InputMap>
+              <default/>
+              <int>0</int>
+            </javax.swing.InputMap>
+          </focusInputMap>
+          <listenerList serialization="custom">
+            <javax.swing.event.EventListenerList>
+              <default/>
+              <string>javax.swing.event.TreeSelectionListener</string>
+              <gge.gui.workspace.WorkspaceTree reference="../../../../.."/>
+              <null/>
+            </javax.swing.event.EventListenerList>
+          </listenerList>
+        </default>
+        <int>0</int>
+      </javax.swing.JComponent>
+      <javax.swing.JTree>
+        <default>
+          <dragEnabled>false</dragEnabled>
+          <editable>false</editable>
+          <expandRow>-1</expandRow>
+          <expandsSelectedPaths>true</expandsSelectedPaths>
+          <invokesStopCellEditing>false</invokesStopCellEditing>
+          <largeModel>false</largeModel>
+          <rootVisible>true</rootVisible>
+          <rowHeight>0</rowHeight>
+          <rowHeightSet>false</rowHeightSet>
+          <scrollsOnExpand>true</scrollsOnExpand>
+          <scrollsOnExpandSet>false</scrollsOnExpandSet>
+          <settingUI>false</settingUI>
+          <showsRootHandles>false</showsRootHandles>
+          <showsRootHandlesSet>false</showsRootHandlesSet>
+          <toggleClickCount>2</toggleClickCount>
+          <visibleRowCount>20</visibleRowCount>
+          <anchorPath>
+            <parentPath>
+              <lastPathComponent class="gge.model.Workspace">
+                <changed>false</changed>
+                <obs>
+                  <gge.gui.workspace.WorkspaceTree reference="../../../../../../.."/>
+                </obs>
+                <projects>
+                  <gge.model.Project>
+                    <projectName>Project 1</projectName>
+                    <numberOfDiagrams>2</numberOfDiagrams>
+                    <diagramName>Diagram 1</diagramName>
+                    <elements>
+                      <gge.model.Gerund reference="../../../../../../../../../../gge.view.GGEView/gge.view.GGEView/default/commandManager/commands/gge.command.AddElementCommand/element"/>
+                      <gge.model.Gerund reference="../../../../../../../../../../gge.view.GGEView/gge.view.GGEView/default/commandManager/commands/gge.command.AddElementCommand[2]/element"/>
+                      <gge.model.Gerund reference="../../../../../../../../../../gge.view.GGEView/gge.view.GGEView/default/commandManager/commands/gge.command.AddElementCommand[3]/element"/>
+                    </elements>
+                    <links reference="../elements"/>
+                    <diagramName>Diagram 2</diagramName>
+                    <elements>
+                      <gge.model.WeakEntity>
+                        <name>weakEntity_1</name>
+                        <size class="java.awt.Dimension">
+                          <width>100</width>
+                          <height>60</height>
+                        </size>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>511.0</x>
+                          <y>225.0</y>
+                        </position>
+                        <type>weakEntity</type>
+                        <angle>0.0</angle>
+                        <visibility>false</visibility>
+                        <color reference="../../../../../../../../../../../gge.view.GGEView/java.awt.Component/default/background"/>
+                        <borderColor reference="../../../../../../../../../../../gge.view.GGEView/gge.view.GGEView/default/commandManager/commands/gge.command.AddElementCommand/element/borderColor"/>
+                        <lineStyle>
+                          <width>1.0</width>
+                          <join>1</join>
+                          <cap>1</cap>
+                          <miterlimit>5.0</miterlimit>
+                          <dash__phase>0.0</dash__phase>
+                        </lineStyle>
+                        <lineStyleName>puna</lineStyleName>
+                        <fontName>Serif</fontName>
+                        <fontStyle>0</fontStyle>
+                        <fontSize>12</fontSize>
+                        <fontColor reference="../../../../../../../../../../../gge.view.GGEView/gge.view.GGEView/default/commandManager/commands/gge.command.AddElementCommand/element/borderColor"/>
+                        <underline>false</underline>
+                        <shading>false</shading>
+                        <shadow>
+                          <p1>
+                            <x>511.0</x>
+                            <y>225.0</y>
+                          </p1>
+                          <p2>
+                            <x>551.0</x>
+                            <y>225.0</y>
+                          </p2>
+                          <color1 reference="../../../../../../../../../../../../gge.view.GGEView/java.awt.Component/default/background"/>
+                          <color2 reference="../../../../../../../../../../../../gge.view.GGEView/java.awt.Component/default/background"/>
+                          <cyclic>true</cyclic>
+                        </shadow>
+                        <resize>false</resize>
+                        <fill>false</fill>
+                      </gge.model.WeakEntity>
+                      <gge.model.WeakEntity>
+                        <name>weakEntity_2</name>
+                        <size class="java.awt.Dimension">
+                          <width>100</width>
+                          <height>60</height>
+                        </size>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>340.0</x>
+                          <y>224.0</y>
+                        </position>
+                        <type>weakEntity</type>
+                        <angle>0.0</angle>
+                        <visibility>false</visibility>
+                        <color reference="../../../../../../../../../../../gge.view.GGEView/java.awt.Component/default/background"/>
+                        <borderColor reference="../../../../../../../../../../../gge.view.GGEView/gge.view.GGEView/default/commandManager/commands/gge.command.AddElementCommand/element/borderColor"/>
+                        <lineStyle>
+                          <width>1.0</width>
+                          <join>1</join>
+                          <cap>1</cap>
+                          <miterlimit>5.0</miterlimit>
+                          <dash__phase>0.0</dash__phase>
+                        </lineStyle>
+                        <lineStyleName>puna</lineStyleName>
+                        <fontName>Serif</fontName>
+                        <fontStyle>0</fontStyle>
+                        <fontSize>12</fontSize>
+                        <fontColor reference="../../../../../../../../../../../gge.view.GGEView/gge.view.GGEView/default/commandManager/commands/gge.command.AddElementCommand/element/borderColor"/>
+                        <underline>false</underline>
+                        <shading>false</shading>
+                        <shadow>
+                          <p1>
+                            <x>340.0</x>
+                            <y>224.0</y>
+                          </p1>
+                          <p2>
+                            <x>380.0</x>
+                            <y>224.0</y>
+                          </p2>
+                          <color1 reference="../../../../../../../../../../../../gge.view.GGEView/java.awt.Component/default/background"/>
+                          <color2 reference="../../../../../../../../../../../../gge.view.GGEView/java.awt.Component/default/background"/>
+                          <cyclic>true</cyclic>
+                        </shadow>
+                        <resize>false</resize>
+                        <fill>false</fill>
+                      </gge.model.WeakEntity>
+                      <gge.model.WeakEntity>
+                        <name>weakEntity_3</name>
+                        <size class="java.awt.Dimension">
+                          <width>100</width>
+                          <height>60</height>
+                        </size>
+                        <position class="java.awt.geom.Point2D$Double">
+                          <x>181.0</x>
+                          <y>249.0</y>
+                        </position>
+                        <type>weakEntity</type>
+                        <angle>0.0</angle>
+                        <visibility>false</visibility>
+                        <color reference="../../../../../../../../../../../gge.view.GGEView/java.awt.Component/default/background"/>
+                        <borderColor reference="../../../../../../../../../../../gge.view.GGEView/gge.view.GGEView/default/commandManager/commands/gge.command.AddElementCommand/element/borderColor"/>
+                        <lineStyle>
+                          <width>1.0</width>
+                          <join>1</join>
+                          <cap>1</cap>
+                          <miterlimit>5.0</miterlimit>
+                          <dash__phase>0.0</dash__phase>
+                        </lineStyle>
+                        <lineStyleName>puna</lineStyleName>
+                        <fontName>Serif</fontName>
+                        <fontStyle>0</fontStyle>
+                        <fontSize>12</fontSize>
+                        <fontColor reference="../../../../../../../../../../../gge.view.GGEView/gge.view.GGEView/default/commandManager/commands/gge.command.AddElementCommand/element/borderColor"/>
+                        <underline>false</underline>
+                        <shading>false</shading>
+                        <shadow>
+                          <p1>
+                            <x>181.0</x>
+                            <y>249.0</y>
+                          </p1>
+                          <p2>
+                            <x>221.0</x>
+                            <y>249.0</y>
+                          </p2>
+                          <color1 reference="../../../../../../../../../../../../gge.view.GGEView/java.awt.Component/default/background"/>
+                          <color2 reference="../../../../../../../../../../../../gge.view.GGEView/java.awt.Component/default/background"/>
+                          <cyclic>true</cyclic>
+                        </shadow>
+                        <resize>false</resize>
+                        <fill>false</fill>
+                      </gge.model.WeakEntity>
+                    </elements>
+                    <links reference="../elements[2]"/>
+                  </gge.model.Project>
+                </projects>
+                <name>Workspace</name>
+              </lastPathComponent>
+            </parentPath>
+            <lastPathComponent class="gge.model.Project" reference="../parentPath/lastPathComponent/projects/gge.model.Project"/>
+          </anchorPath>
+          <dropMode>USE_SELECTION</dropMode>
+          <leadPath reference="../anchorPath"/>
+        </default>
+        <vector>
+          <string>selectionModel</string>
+          <javax.swing.tree.DefaultTreeSelectionModel serialization="custom">
+            <javax.swing.tree.DefaultTreeSelectionModel>
+              <default>
+                <leadIndex>0</leadIndex>
+                <leadRow>-1</leadRow>
+                <selectionMode>1</selectionMode>
+                <changeSupport serialization="custom">
+                  <java.beans.PropertyChangeSupport>
+                    <default>
+                      <source class="javax.swing.tree.DefaultTreeSelectionModel" reference="../../../../../.."/>
+                      <propertyChangeSupportSerializedDataVersion>2</propertyChangeSupportSerializedDataVersion>
+                    </default>
+                    <null/>
+                  </java.beans.PropertyChangeSupport>
+                  <javax.swing.event.SwingPropertyChangeSupport>
+                    <default>
+                      <notifyOnEDT>false</notifyOnEDT>
+                    </default>
+                  </javax.swing.event.SwingPropertyChangeSupport>
+                </changeSupport>
+                <lastPaths/>
+                <leadPath reference="../../../../../default/anchorPath"/>
+                <listSelectionModel>
+                  <selectionMode>2</selectionMode>
+                  <minIndex>2147483647</minIndex>
+                  <maxIndex>-1</maxIndex>
+                  <anchorIndex>1</anchorIndex>
+                  <leadIndex>1</leadIndex>
+                  <firstAdjustedIndex>2147483647</firstAdjustedIndex>
+                  <lastAdjustedIndex>-1</lastAdjustedIndex>
+                  <isAdjusting>false</isAdjusting>
+                  <firstChangedIndex>2147483647</firstChangedIndex>
+                  <lastChangedIndex>-1</lastChangedIndex>
+                  <value></value>
+                  <listenerList serialization="custom">
+                    <javax.swing.event.EventListenerList>
+                      <default/>
+                      <null/>
+                    </javax.swing.event.EventListenerList>
+                  </listenerList>
+                  <leadAnchorNotificationEnabled>true</leadAnchorNotificationEnabled>
+                </listSelectionModel>
+                <listenerList serialization="custom">
+                  <javax.swing.event.EventListenerList>
+                    <default/>
+                    <string>javax.swing.event.TreeSelectionListener</string>
+                    <javax.swing.JTree_-TreeSelectionRedirector>
+                      <outer-class class="gge.gui.workspace.WorkspaceTree" reference="../../../../../../../../.."/>
+                    </javax.swing.JTree_-TreeSelectionRedirector>
+                    <null/>
+                  </javax.swing.event.EventListenerList>
+                </listenerList>
+                <selection>
+                  <javax.swing.tree.TreePath reference="../../../../../../default/anchorPath"/>
+                </selection>
+                <tempPaths>
+                  <null/>
+                </tempPaths>
+                <uniquePaths>
+                  <entry>
+                    <javax.swing.tree.TreePath reference="../../../../../../../default/anchorPath"/>
+                    <boolean>true</boolean>
+                  </entry>
+                </uniquePaths>
+              </default>
+              <object-array/>
+            </javax.swing.tree.DefaultTreeSelectionModel>
+          </javax.swing.tree.DefaultTreeSelectionModel>
+          <string>expandedState</string>
+          <vector>
+            <int-array>
+              <int>0</int>
+              <int>1</int>
+            </int-array>
+            <boolean>true</boolean>
+            <int-array>
+              <int>0</int>
+              <int>0</int>
+            </int-array>
+            <boolean>true</boolean>
+            <int-array>
+              <int>0</int>
+            </int-array>
+            <boolean>true</boolean>
+            <int-array/>
+            <boolean>true</boolean>
+          </vector>
+        </vector>
+      </javax.swing.JTree>
+      <gge.gui.workspace.WorkspaceTree>
+        <default>
+          <kk>1</kk>
+          <selected class="gge.model.Project" reference="../../../javax.swing.JTree/default/anchorPath/parentPath/lastPathComponent/projects/gge.model.Project"/>
+        </default>
+      </gge.gui.workspace.WorkspaceTree>
+    </gge.gui.workspace.WorkspaceTree>
+  </obs>
+  <name>Diagram 1</name>
+  <elements reference="../obs/gge.gui.workspace.WorkspaceTree/javax.swing.JTree/default/anchorPath/parentPath/lastPathComponent/projects/gge.model.Project/elements"/>
+</gge.model.GGEModel>

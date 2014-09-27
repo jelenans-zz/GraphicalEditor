@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/gge/model
+END
+GraphElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/gge/model/GraphElement.java
+END
+ISAhierarchy.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/gge/model/ISAhierarchy.java
+END
+Atribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/gge/model/Atribute.java
+END
+Connector.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/gge/model/Connector.java
+END
+Element.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/gge/model/Element.java
+END
+WeakEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/gge/model/WeakEntity.java
+END
+Link.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/gge/model/Link.java
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/gge/model/Project.java
+END
+Gerund.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/gge/model/Gerund.java
+END
+Clipboard.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/gge/model/Clipboard.java
+END
+Workspace.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/gge/model/Workspace.java
+END
+GGEModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/gge/model/GGEModel.java
+END
+Entity.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/2012z/ps/tim6/svn/!svn/ver/198/trunk/redo%20za%20dodavanje/src/gge/model/Entity.java
+END

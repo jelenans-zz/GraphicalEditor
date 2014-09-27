@@ -1,0 +1,273 @@
+<gge.model.GGEModel>
+  <dijagram>Diagram 1</dijagram>
+  <elements>
+    <gge.model.Connector>
+      <name>connector_1</name>
+      <size class="java.awt.Dimension">
+        <width>100</width>
+        <height>60</height>
+      </size>
+      <position class="java.awt.geom.Point2D$Double">
+        <x>489.0</x>
+        <y>328.0</y>
+      </position>
+      <type>connector</type>
+      <angle>0.0</angle>
+      <visibility>false</visibility>
+      <color>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+        <alpha>255</alpha>
+      </color>
+      <borderColor>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </borderColor>
+      <lineStyle>
+        <width>1.0</width>
+        <join>1</join>
+        <cap>1</cap>
+        <miterlimit>5.0</miterlimit>
+        <dash__phase>0.0</dash__phase>
+      </lineStyle>
+      <lineStyleName>puna</lineStyleName>
+      <fontName>Serif</fontName>
+      <fontStyle>0</fontStyle>
+      <fontSize>12</fontSize>
+      <fontColor reference="../borderColor"/>
+      <underline>false</underline>
+      <shading>false</shading>
+      <shadow>
+        <p1>
+          <x>456.0</x>
+          <y>225.0</y>
+        </p1>
+        <p2>
+          <x>496.0</x>
+          <y>225.0</y>
+        </p2>
+        <color1 reference="../../color"/>
+        <color2 reference="../../color"/>
+        <cyclic>true</cyclic>
+      </shadow>
+      <resize>false</resize>
+      <fill>false</fill>
+    </gge.model.Connector>
+    <gge.model.Connector>
+      <name>connector_2</name>
+      <size class="java.awt.Dimension">
+        <width>100</width>
+        <height>60</height>
+      </size>
+      <position class="java.awt.geom.Point2D$Double">
+        <x>232.0</x>
+        <y>244.0</y>
+      </position>
+      <type>connector</type>
+      <angle>0.0</angle>
+      <visibility>false</visibility>
+      <color reference="../../gge.model.Connector/color"/>
+      <borderColor reference="../../gge.model.Connector/borderColor"/>
+      <lineStyle>
+        <width>1.0</width>
+        <join>1</join>
+        <cap>1</cap>
+        <miterlimit>5.0</miterlimit>
+        <dash__phase>0.0</dash__phase>
+      </lineStyle>
+      <lineStyleName>puna</lineStyleName>
+      <fontName>Serif</fontName>
+      <fontStyle>0</fontStyle>
+      <fontSize>12</fontSize>
+      <fontColor reference="../../gge.model.Connector/borderColor"/>
+      <underline>false</underline>
+      <shading>false</shading>
+      <shadow>
+        <p1>
+          <x>232.0</x>
+          <y>244.0</y>
+        </p1>
+        <p2>
+          <x>272.0</x>
+          <y>244.0</y>
+        </p2>
+        <color1 reference="../../../gge.model.Connector/color"/>
+        <color2 reference="../../../gge.model.Connector/color"/>
+        <cyclic>true</cyclic>
+      </shadow>
+      <resize>false</resize>
+      <fill>false</fill>
+    </gge.model.Connector>
+    <gge.model.Atribute>
+      <name> cxvzx</name>
+      <size class="java.awt.Dimension">
+        <width>85</width>
+        <height>35</height>
+      </size>
+      <oldSize class="java.awt.Dimension">
+        <width>85</width>
+        <height>35</height>
+      </oldSize>
+      <position class="java.awt.geom.Point2D$Double">
+        <x>410.0</x>
+        <y>143.0</y>
+      </position>
+      <type>atribute</type>
+      <angle>0.0</angle>
+      <visibility>false</visibility>
+      <color reference="../../gge.model.Connector/color"/>
+      <borderColor reference="../../gge.model.Connector/borderColor"/>
+      <lineStyle>
+        <width>1.0</width>
+        <join>1</join>
+        <cap>1</cap>
+        <miterlimit>5.0</miterlimit>
+        <dash__phase>0.0</dash__phase>
+      </lineStyle>
+      <lineStyleName>puna</lineStyleName>
+      <fontName>Serif</fontName>
+      <fontStyle>0</fontStyle>
+      <fontSize>12</fontSize>
+      <fontColor reference="../../gge.model.Connector/borderColor"/>
+      <underline>false</underline>
+      <shading>false</shading>
+      <shadow>
+        <p1>
+          <x>514.0</x>
+          <y>202.0</y>
+        </p1>
+        <p2>
+          <x>524.0</x>
+          <y>202.0</y>
+        </p2>
+        <color1 reference="../../../gge.model.Connector/color"/>
+        <color2 reference="../../../gge.model.Connector/color"/>
+        <cyclic>true</cyclic>
+      </shadow>
+      <resize>false</resize>
+      <fill>false</fill>
+    </gge.model.Atribute>
+    <gge.model.Entity>
+      <name>dfssdfc</name>
+      <size class="java.awt.Dimension">
+        <width>100</width>
+        <height>60</height>
+      </size>
+      <position class="java.awt.geom.Point2D$Double">
+        <x>310.0</x>
+        <y>43.0</y>
+      </position>
+      <type>entity</type>
+      <angle>0.0</angle>
+      <visibility>false</visibility>
+      <color reference="../../gge.model.Connector/color"/>
+      <borderColor reference="../../gge.model.Connector/borderColor"/>
+      <lineStyle>
+        <width>1.0</width>
+        <join>1</join>
+        <cap>1</cap>
+        <miterlimit>5.0</miterlimit>
+        <dash__phase>0.0</dash__phase>
+      </lineStyle>
+      <lineStyleName>puna</lineStyleName>
+      <fontName>Serif</fontName>
+      <fontStyle>0</fontStyle>
+      <fontSize>12</fontSize>
+      <fontColor reference="../../gge.model.Connector/borderColor"/>
+      <underline>false</underline>
+      <shading>false</shading>
+      <shadow>
+        <p1>
+          <x>414.0</x>
+          <y>102.0</y>
+        </p1>
+        <p2>
+          <x>454.0</x>
+          <y>102.0</y>
+        </p2>
+        <color1 reference="../../../gge.model.Connector/color"/>
+        <color2 reference="../../../gge.model.Connector/color"/>
+        <cyclic>true</cyclic>
+      </shadow>
+      <resize>false</resize>
+      <fill>false</fill>
+      <atributi>
+        <gge.model.Atribute reference="../../../gge.model.Atribute"/>
+      </atributi>
+      <linije>
+        <java.awt.geom.GeneralPath serialization="custom">
+          <unserializable-parents/>
+          <java.awt.geom.Path2D_-Float>
+            <default/>
+            <byte>48</byte>
+            <int>2</int>
+            <int>4</int>
+            <byte>1</byte>
+            <byte>64</byte>
+            <float>410.0</float>
+            <float>103.0</float>
+            <byte>65</byte>
+            <float>452.5</float>
+            <float>143.0</float>
+            <byte>97</byte>
+          </java.awt.geom.Path2D_-Float>
+        </java.awt.geom.GeneralPath>
+      </linije>
+      <atributPainteri>
+        <gge.view.AtributePainter>
+          <shape class="java.awt.geom.Ellipse2D$Double">
+            <x>0.0</x>
+            <y>0.0</y>
+            <width>85.0</width>
+            <height>35.0</height>
+          </shape>
+          <elementTransformation serialization="custom">
+            <java.awt.geom.AffineTransform>
+              <default>
+                <m00>1.0</m00>
+                <m01>0.0</m01>
+                <m02>410.0</m02>
+                <m10>0.0</m10>
+                <m11>1.0</m11>
+                <m12>143.0</m12>
+              </default>
+            </java.awt.geom.AffineTransform>
+          </elementTransformation>
+          <element class="gge.model.Atribute" reference="../../../../gge.model.Atribute"/>
+        </gge.view.AtributePainter>
+      </atributPainteri>
+    </gge.model.Entity>
+    <gge.model.Link>
+      <name>link</name>
+      <first class="gge.model.Entity" reference="../../gge.model.Entity"/>
+      <second class="gge.model.Connector" reference="../../gge.model.Connector[2]"/>
+      <breakPoints/>
+      <pocetnaTacka class="java.awt.geom.Point2D$Double">
+        <x>410.0</x>
+        <y>73.0</y>
+      </pocetnaTacka>
+      <krajnjaTacka class="java.awt.geom.Point2D$Double">
+        <x>232.0</x>
+        <y>274.0</y>
+      </krajnjaTacka>
+    </gge.model.Link>
+    <gge.model.Link>
+      <name>link</name>
+      <first class="gge.model.Connector" reference="../../gge.model.Connector"/>
+      <second class="gge.model.Connector" reference="../../gge.model.Connector[2]"/>
+      <breakPoints/>
+      <pocetnaTacka class="java.awt.geom.Point2D$Double">
+        <x>589.0</x>
+        <y>358.0</y>
+      </pocetnaTacka>
+      <krajnjaTacka class="java.awt.geom.Point2D$Double">
+        <x>232.0</x>
+        <y>274.0</y>
+      </krajnjaTacka>
+    </gge.model.Link>
+  </elements>
+  <links reference="../elements"/>
+</gge.model.GGEModel>

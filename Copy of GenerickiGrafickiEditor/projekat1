@@ -1,0 +1,435 @@
+<gge.model.GGEModel>
+  <dijagram>dijagram</dijagram>
+  <elements>
+    <gge.model.Gerund>
+      <name>gerund_1</name>
+      <atributi/>
+      <linije/>
+      <atributPainteri/>
+      <connectionPoints>
+        <java.awt.geom.Point2D_-Double>
+          <x>576.0</x>
+          <y>215.0</y>
+        </java.awt.geom.Point2D_-Double>
+        <java.awt.geom.Point2D_-Double>
+          <x>526.0</x>
+          <y>245.0</y>
+        </java.awt.geom.Point2D_-Double>
+        <java.awt.geom.Point2D_-Double>
+          <x>576.0</x>
+          <y>275.0</y>
+        </java.awt.geom.Point2D_-Double>
+        <java.awt.geom.Point2D_-Double>
+          <x>626.0</x>
+          <y>245.0</y>
+        </java.awt.geom.Point2D_-Double>
+      </connectionPoints>
+      <size class="java.awt.Dimension">
+        <width>100</width>
+        <height>60</height>
+      </size>
+      <position class="java.awt.geom.Point2D$Double">
+        <x>526.0</x>
+        <y>215.0</y>
+      </position>
+      <type>gerund</type>
+      <angle>0.0</angle>
+      <visibility>false</visibility>
+      <color>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+        <alpha>255</alpha>
+      </color>
+      <borderColor>
+        <red>0</red>
+        <green>0</green>
+        <blue>0</blue>
+        <alpha>255</alpha>
+      </borderColor>
+      <lineStyle>
+        <width>1.0</width>
+        <join>1</join>
+        <cap>1</cap>
+        <miterlimit>5.0</miterlimit>
+        <dash__phase>0.0</dash__phase>
+      </lineStyle>
+      <lineStyleName>puna</lineStyleName>
+      <fontName>Serif</fontName>
+      <fontStyle>0</fontStyle>
+      <fontSize>12</fontSize>
+      <fontColor reference="../borderColor"/>
+      <underline>false</underline>
+      <shading>false</shading>
+      <shadow>
+        <p1>
+          <x>526.0</x>
+          <y>215.0</y>
+        </p1>
+        <p2>
+          <x>566.0</x>
+          <y>215.0</y>
+        </p2>
+        <color1 reference="../../color"/>
+        <color2 reference="../../color"/>
+        <cyclic>true</cyclic>
+      </shadow>
+      <resize>false</resize>
+      <fill>false</fill>
+    </gge.model.Gerund>
+    <gge.model.Gerund>
+      <name>gerund_2</name>
+      <atributi/>
+      <linije/>
+      <atributPainteri/>
+      <connectionPoints>
+        <java.awt.geom.Point2D_-Double>
+          <x>300.0</x>
+          <y>211.0</y>
+        </java.awt.geom.Point2D_-Double>
+        <java.awt.geom.Point2D_-Double>
+          <x>250.0</x>
+          <y>241.0</y>
+        </java.awt.geom.Point2D_-Double>
+        <java.awt.geom.Point2D_-Double>
+          <x>300.0</x>
+          <y>271.0</y>
+        </java.awt.geom.Point2D_-Double>
+        <java.awt.geom.Point2D_-Double>
+          <x>350.0</x>
+          <y>241.0</y>
+        </java.awt.geom.Point2D_-Double>
+      </connectionPoints>
+      <size class="java.awt.Dimension">
+        <width>100</width>
+        <height>60</height>
+      </size>
+      <position class="java.awt.geom.Point2D$Double">
+        <x>250.0</x>
+        <y>211.0</y>
+      </position>
+      <type>gerund</type>
+      <angle>0.0</angle>
+      <visibility>false</visibility>
+      <color reference="../../gge.model.Gerund/color"/>
+      <borderColor reference="../../gge.model.Gerund/borderColor"/>
+      <lineStyle>
+        <width>1.0</width>
+        <join>1</join>
+        <cap>1</cap>
+        <miterlimit>5.0</miterlimit>
+        <dash__phase>0.0</dash__phase>
+      </lineStyle>
+      <lineStyleName>puna</lineStyleName>
+      <fontName>Serif</fontName>
+      <fontStyle>0</fontStyle>
+      <fontSize>12</fontSize>
+      <fontColor reference="../../gge.model.Gerund/borderColor"/>
+      <underline>false</underline>
+      <shading>false</shading>
+      <shadow>
+        <p1>
+          <x>250.0</x>
+          <y>211.0</y>
+        </p1>
+        <p2>
+          <x>290.0</x>
+          <y>211.0</y>
+        </p2>
+        <color1 reference="../../../gge.model.Gerund/color"/>
+        <color2 reference="../../../gge.model.Gerund/color"/>
+        <cyclic>true</cyclic>
+      </shadow>
+      <resize>false</resize>
+      <fill>false</fill>
+    </gge.model.Gerund>
+    <gge.model.Atribute>
+      <name>sifra</name>
+      <atributi/>
+      <linije/>
+      <atributPainteri/>
+      <connectionPoints/>
+      <size class="java.awt.Dimension">
+        <width>85</width>
+        <height>35</height>
+      </size>
+      <oldSize class="java.awt.Dimension">
+        <width>85</width>
+        <height>35</height>
+      </oldSize>
+      <position class="java.awt.geom.Point2D$Double">
+        <x>534.0</x>
+        <y>19.0</y>
+      </position>
+      <type>atribute</type>
+      <angle>0.0</angle>
+      <visibility>false</visibility>
+      <color reference="../../gge.model.Gerund/color"/>
+      <borderColor reference="../../gge.model.Gerund/borderColor"/>
+      <lineStyle>
+        <width>1.0</width>
+        <join>1</join>
+        <cap>1</cap>
+        <miterlimit>5.0</miterlimit>
+        <dash__phase>0.0</dash__phase>
+      </lineStyle>
+      <lineStyleName>puna</lineStyleName>
+      <fontName>Serif</fontName>
+      <fontStyle>0</fontStyle>
+      <fontSize>12</fontSize>
+      <fontColor reference="../../gge.model.Gerund/borderColor"/>
+      <underline>false</underline>
+      <shading>false</shading>
+      <shadow>
+        <p1>
+          <x>493.0</x>
+          <y>153.0</y>
+        </p1>
+        <p2>
+          <x>503.0</x>
+          <y>153.0</y>
+        </p2>
+        <color1 reference="../../../gge.model.Gerund/color"/>
+        <color2 reference="../../../gge.model.Gerund/color"/>
+        <cyclic>true</cyclic>
+      </shadow>
+      <resize>false</resize>
+      <fill>false</fill>
+    </gge.model.Atribute>
+    <gge.model.Atribute>
+      <name>ime</name>
+      <atributi/>
+      <linije/>
+      <atributPainteri/>
+      <connectionPoints/>
+      <size class="java.awt.Dimension">
+        <width>85</width>
+        <height>35</height>
+      </size>
+      <oldSize class="java.awt.Dimension">
+        <width>85</width>
+        <height>35</height>
+      </oldSize>
+      <position class="java.awt.geom.Point2D$Double">
+        <x>596.0</x>
+        <y>55.0</y>
+      </position>
+      <type>atribute</type>
+      <angle>0.0</angle>
+      <visibility>false</visibility>
+      <color reference="../../gge.model.Gerund/color"/>
+      <borderColor reference="../../gge.model.Gerund/borderColor"/>
+      <lineStyle>
+        <width>1.0</width>
+        <join>1</join>
+        <cap>1</cap>
+        <miterlimit>5.0</miterlimit>
+        <dash__phase>0.0</dash__phase>
+      </lineStyle>
+      <lineStyleName>puna</lineStyleName>
+      <fontName>Serif</fontName>
+      <fontStyle>0</fontStyle>
+      <fontSize>12</fontSize>
+      <fontColor reference="../../gge.model.Gerund/borderColor"/>
+      <underline>false</underline>
+      <shading>false</shading>
+      <shadow>
+        <p1>
+          <x>593.0</x>
+          <y>153.0</y>
+        </p1>
+        <p2>
+          <x>603.0</x>
+          <y>153.0</y>
+        </p2>
+        <color1 reference="../../../gge.model.Gerund/color"/>
+        <color2 reference="../../../gge.model.Gerund/color"/>
+        <cyclic>true</cyclic>
+      </shadow>
+      <resize>false</resize>
+      <fill>false</fill>
+    </gge.model.Atribute>
+    <gge.model.Entity>
+      <name>student</name>
+      <atributi defined-in="gge.model.GraphElement"/>
+      <linije defined-in="gge.model.GraphElement"/>
+      <atributPainteri defined-in="gge.model.GraphElement"/>
+      <connectionPoints>
+        <java.awt.geom.Point2D_-Double>
+          <x>443.0</x>
+          <y>53.0</y>
+        </java.awt.geom.Point2D_-Double>
+        <java.awt.geom.Point2D_-Double>
+          <x>393.0</x>
+          <y>83.0</y>
+        </java.awt.geom.Point2D_-Double>
+        <java.awt.geom.Point2D_-Double>
+          <x>443.0</x>
+          <y>113.0</y>
+        </java.awt.geom.Point2D_-Double>
+        <java.awt.geom.Point2D_-Double>
+          <x>493.0</x>
+          <y>83.0</y>
+        </java.awt.geom.Point2D_-Double>
+      </connectionPoints>
+      <size class="java.awt.Dimension">
+        <width>100</width>
+        <height>60</height>
+      </size>
+      <position class="java.awt.geom.Point2D$Double">
+        <x>393.0</x>
+        <y>53.0</y>
+      </position>
+      <type>entity</type>
+      <angle>0.0</angle>
+      <visibility>false</visibility>
+      <color reference="../../gge.model.Gerund/color"/>
+      <borderColor reference="../../gge.model.Gerund/borderColor"/>
+      <lineStyle>
+        <width>1.0</width>
+        <join>1</join>
+        <cap>1</cap>
+        <miterlimit>5.0</miterlimit>
+        <dash__phase>0.0</dash__phase>
+      </lineStyle>
+      <lineStyleName>puna</lineStyleName>
+      <fontName>Serif</fontName>
+      <fontStyle>0</fontStyle>
+      <fontSize>12</fontSize>
+      <fontColor reference="../../gge.model.Gerund/borderColor"/>
+      <underline>false</underline>
+      <shading>false</shading>
+      <shadow>
+        <p1>
+          <x>393.0</x>
+          <y>53.0</y>
+        </p1>
+        <p2>
+          <x>433.0</x>
+          <y>53.0</y>
+        </p2>
+        <color1 reference="../../../gge.model.Gerund/color"/>
+        <color2 reference="../../../gge.model.Gerund/color"/>
+        <cyclic>true</cyclic>
+      </shadow>
+      <resize>false</resize>
+      <fill>false</fill>
+      <atributi>
+        <gge.model.Atribute reference="../../../gge.model.Atribute"/>
+        <gge.model.Atribute reference="../../../gge.model.Atribute[2]"/>
+      </atributi>
+      <linije>
+        <java.awt.geom.GeneralPath serialization="custom">
+          <unserializable-parents/>
+          <java.awt.geom.Path2D_-Float>
+            <default/>
+            <byte>48</byte>
+            <int>2</int>
+            <int>4</int>
+            <byte>1</byte>
+            <byte>64</byte>
+            <float>493.0</float>
+            <float>113.0</float>
+            <byte>65</byte>
+            <float>576.5</float>
+            <float>19.0</float>
+            <byte>97</byte>
+          </java.awt.geom.Path2D_-Float>
+        </java.awt.geom.GeneralPath>
+        <java.awt.geom.GeneralPath serialization="custom">
+          <unserializable-parents/>
+          <java.awt.geom.Path2D_-Float>
+            <default/>
+            <byte>48</byte>
+            <int>2</int>
+            <int>4</int>
+            <byte>1</byte>
+            <byte>64</byte>
+            <float>493.0</float>
+            <float>113.0</float>
+            <byte>65</byte>
+            <float>638.5</float>
+            <float>55.0</float>
+            <byte>97</byte>
+          </java.awt.geom.Path2D_-Float>
+        </java.awt.geom.GeneralPath>
+      </linije>
+      <atributPainteri>
+        <gge.view.AtributePainter>
+          <shape class="java.awt.geom.Ellipse2D$Double">
+            <x>0.0</x>
+            <y>0.0</y>
+            <width>85.0</width>
+            <height>35.0</height>
+          </shape>
+          <elementTransformation serialization="custom">
+            <java.awt.geom.AffineTransform>
+              <default>
+                <m00>1.0</m00>
+                <m01>0.0</m01>
+                <m02>534.0</m02>
+                <m10>0.0</m10>
+                <m11>1.0</m11>
+                <m12>19.0</m12>
+              </default>
+            </java.awt.geom.AffineTransform>
+          </elementTransformation>
+          <element class="gge.model.Atribute" reference="../../../../gge.model.Atribute"/>
+        </gge.view.AtributePainter>
+        <gge.view.AtributePainter>
+          <shape class="java.awt.geom.Ellipse2D$Double">
+            <x>0.0</x>
+            <y>0.0</y>
+            <width>85.0</width>
+            <height>35.0</height>
+          </shape>
+          <elementTransformation serialization="custom">
+            <java.awt.geom.AffineTransform>
+              <default>
+                <m00>1.0</m00>
+                <m01>0.0</m01>
+                <m02>596.0</m02>
+                <m10>0.0</m10>
+                <m11>1.0</m11>
+                <m12>55.0</m12>
+              </default>
+            </java.awt.geom.AffineTransform>
+          </elementTransformation>
+          <element class="gge.model.Atribute" reference="../../../../gge.model.Atribute[2]"/>
+        </gge.view.AtributePainter>
+      </atributPainteri>
+      <key/>
+    </gge.model.Entity>
+    <gge.model.Link>
+      <name>link_1</name>
+      <first class="gge.model.Gerund" reference="../../gge.model.Gerund[2]"/>
+      <second class="gge.model.Entity" reference="../../gge.model.Entity"/>
+      <breakPoints/>
+      <pocetnaTacka class="java.awt.geom.Point2D$Double">
+        <x>350.0</x>
+        <y>241.0</y>
+      </pocetnaTacka>
+      <krajnjaTacka class="java.awt.geom.Point2D$Double">
+        <x>443.0</x>
+        <y>113.0</y>
+      </krajnjaTacka>
+      <type>link</type>
+    </gge.model.Link>
+    <gge.model.Link>
+      <name>link_2</name>
+      <first class="gge.model.Gerund" reference="../../gge.model.Gerund"/>
+      <second class="gge.model.Entity" reference="../../gge.model.Entity"/>
+      <breakPoints/>
+      <pocetnaTacka class="java.awt.geom.Point2D$Double">
+        <x>576.0</x>
+        <y>215.0</y>
+      </pocetnaTacka>
+      <krajnjaTacka class="java.awt.geom.Point2D$Double">
+        <x>443.0</x>
+        <y>113.0</y>
+      </krajnjaTacka>
+      <type>link</type>
+    </gge.model.Link>
+  </elements>
+  <links reference="../elements"/>
+</gge.model.GGEModel>
