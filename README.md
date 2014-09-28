@@ -15,7 +15,7 @@ Application supports editing ER diagrams. It includes following functions:
 
 •	Multiple selection by clicking (adding and removing from selection) 
 
-•	L asso  selection (from all directions) 
+•	Lasso  selection (from all directions) 
 
 •	Combining different modes of selection (Ctrl + lasso) 
 
